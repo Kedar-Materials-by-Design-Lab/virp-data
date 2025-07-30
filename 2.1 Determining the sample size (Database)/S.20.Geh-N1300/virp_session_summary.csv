@@ -1,0 +1,2 @@
+session,run_id,filename,formula,elements,supercell size,image distance (target),image distance (actual),sample size,relaxer,connectivity_done,properties_done,provenance
+S.20.Geh-N1300,S.20.1,Gehlenite,Ca2Al2SiO7,"['Ca', 'Al', 'Si', 'O']","[2, 2, 3]",15,15.267,1300,CHGNET,FALSE,FALSE,Okhotnikov

@@ -1,0 +1,2 @@
+session,run_id,filename,formula,elements,supercell size,image distance (target),image distance (actual),sample size,relaxer,connectivity_done,properties_done,provenance
+S.6.ice-400,S.6.1,Ice-Ih-119913,H2O,"['H', 'O']","[4, 4, 3]",15,17.9792,400,CHGNET,TRUE,TRUE,ICSD

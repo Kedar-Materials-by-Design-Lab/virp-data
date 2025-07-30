@@ -1,0 +1,13 @@
+CHGNet v0.3.0 initialized with 412,525 parameters
+CHGNet will run on cuda
+Processing .cif file: _disordered_cifs/CoFe.cif
+The shortest distance between lattice points is: 11.46040 Å
+Supercell multiplicity: [4, 4, 4]
+Directory created at: CoFe
+Supercell created and saved as  CoFe/CoFe_supercell.cif
+Disordered site name:  Co1
+- Number of elements in this site:  2
+- Number of sites in supercell:  128
+- Atoms and site assignment (float/rounded):  [('Fe0+', 89.6, 90), ('Co0+', 38.4, 38)]
+- No of filled sites:  128 / 128
+Generating virtual cell #0 (1/100)Generating virtual cell #1 (2/100)Generating virtual cell #2 (3/100)Generating virtual cell #3 (4/100)Generating virtual cell #4 (5/100)Generating virtual cell #5 (6/100)

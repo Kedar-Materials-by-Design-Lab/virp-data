@@ -1,0 +1,16 @@
+,filename,folder,formula,supercell size,sample size,lattice spacing warning
+0,High-entropy_CollCode64141.cif,_disordered_cifs,Hf0.11Zr0.11Ti0.11Nb0.10998Re0.56,"[2, 2, 2]",2,False
+1,High-entropy_CollCode137170.cif,_disordered_cifs,La0.2Ce0.22Pr0.38Nd0.6Sm0.6Bi2S4O1F1,"[3, 3, 1]",2,False
+2,High-entropy_CollCode149268.cif,_disordered_cifs,Hf0.4Zr0.4Ta0.4Ti0.4Mo0.4H3,"[3, 3, 3]",2,False
+3,High-entropy_CollCode149264.cif,_disordered_cifs,Hf0.4Zr0.4Ta0.4Ti0.4Mo0.4H3,"[4, 4, 3]",2,False
+4,High-entropy_CollCode149266.cif,_disordered_cifs,Hf0.4Zr0.4Ta0.4Ti0.4Mo0.4H3,"[4, 4, 3]",2,False
+5,High-entropy_CollCode137167.cif,_disordered_cifs,La0.56Ce0.62Pr0.38Nd0.24Sm0.2Bi2S4O1F1,"[3, 3, 1]",2,False
+6,High-entropy_CollCode49498.cif,_disordered_cifs,Ti4Co2Ni1.96Sn1.784Sb1.996,"[2, 2, 2]",2,False
+7,Mica_0000836.cif,_disordered_cifs,K2Na0.222Li0.45Mg5.328Fe1.376Si6.624O20F4,"[2, 2, 1]",2,False
+8,High-entropy_CollCode64142.cif,_disordered_cifs,In0.8Ag0.8Sn0.8Bi0.8Te4Pb0.8,"[2, 2, 2]",2,False
+9,High-entropy_CollCode137168.cif,_disordered_cifs,La0.38Ce0.42Pr0.42Nd0.4Sm0.38Bi2S4O1F1,"[3, 3, 1]",2,False
+10,High-entropy_CollCode264461.cif,_disordered_cifs,Zr0.4Sc0.4Nb0.4Pd0.4Rh0.4,"[4, 4, 4]",2,False
+11,High-entropy_CollCode137169.cif,_disordered_cifs,La0.18Ce0.18Pr0.6Nd0.64Sm0.4Bi2S4O1F1,"[3, 3, 1]",2,False
+12,High-entropy_CollCode149269.cif,_disordered_cifs,Hf0.4Zr0.4Ta0.4Ti0.4Mo0.4H3,"[3, 3, 3]",2,False
+13,High-entropy_CollCode149265.cif,_disordered_cifs,Hf0.4Zr0.4Ta0.4Ti0.4Mo0.4H3,"[3, 3, 3]",2,False
+14,High-entropy_CollCode49497.cif,_disordered_cifs,Ti4Co1.988Ni1.996Sn1.932Sb1.996,"[2, 2, 2]",2,False

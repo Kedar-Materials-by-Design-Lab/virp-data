@@ -1,0 +1,18 @@
+cuequivariance or cuequivariance_torch is not available. Cuequivariance acceleration will be disabled.
+Using model under Academic Software License (ASL) license, see https://github.com/gabor1/ASL 
+ To use this model you accept the terms of the license.
+Using Materials Project MACE for MACECalculator with /homes/andy/.cache/mace/maceomat0mediummodel
+Using float64 for MACECalculator, which is slower but more accurate. Recommended for geometry optimization.
+Using head default out of ['default']
+Using relaxer:  mace_omat
+Processing .cif file: _disordered_cifs/LT-CuTiTe.cif
+The shortest distance between lattice points is: 16.75780 Å
+Supercell multiplicity: [2, 2, 1]
+Directory created at: LT-CuTiTe
+Supercell created and saved as  LT-CuTiTe/LT-CuTiTe_supercell.cif
+Disordered site name:  Cu4
+- Number of elements in this site:  1
+- Number of sites in supercell:  36
+- Atoms and site assignment (float/rounded):  [('Cu+', 11.9988, 12)]
+- No of filled sites:  12 / 36
+Generating virtual cell #0 (1/400)

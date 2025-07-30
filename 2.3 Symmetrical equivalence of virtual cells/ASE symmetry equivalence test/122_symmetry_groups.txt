@@ -1,0 +1,595 @@
+Symmetry-equivalent groups:
+
+Group 1:
+  _virtual_0.cif
+  _virtual_75.cif
+  _virtual_87.cif
+
+Group 2:
+  _virtual_1.cif
+  _virtual_179.cif
+
+Group 3:
+  _virtual_10.cif
+  _virtual_118.cif
+  _virtual_131.cif
+  _virtual_137.cif
+  _virtual_398.cif
+  _virtual_94.cif
+
+Group 4:
+  _virtual_100.cif
+  _virtual_162.cif
+  _virtual_254.cif
+  _virtual_282.cif
+  _virtual_315.cif
+  _virtual_33.cif
+  _virtual_387.cif
+  _virtual_85.cif
+
+Group 5:
+  _virtual_101.cif
+  _virtual_103.cif
+  _virtual_197.cif
+  _virtual_247.cif
+  _virtual_351.cif
+
+Group 6:
+  _virtual_102.cif
+  _virtual_166.cif
+  _virtual_180.cif
+  _virtual_20.cif
+  _virtual_220.cif
+  _virtual_334.cif
+
+Group 7:
+  _virtual_104.cif
+  _virtual_122.cif
+  _virtual_128.cif
+  _virtual_13.cif
+  _virtual_145.cif
+  _virtual_152.cif
+  _virtual_155.cif
+  _virtual_218.cif
+  _virtual_35.cif
+  _virtual_385.cif
+
+Group 8:
+  _virtual_105.cif
+  _virtual_116.cif
+  _virtual_12.cif
+  _virtual_147.cif
+  _virtual_160.cif
+  _virtual_268.cif
+  _virtual_30.cif
+  _virtual_34.cif
+
+Group 9:
+  _virtual_106.cif
+  _virtual_130.cif
+  _virtual_136.cif
+  _virtual_233.cif
+  _virtual_252.cif
+  _virtual_260.cif
+  _virtual_300.cif
+  _virtual_321.cif
+  _virtual_339.cif
+  _virtual_393.cif
+
+Group 10:
+  _virtual_107.cif
+  _virtual_323.cif
+  _virtual_7.cif
+
+Group 11:
+  _virtual_108.cif
+  _virtual_173.cif
+  _virtual_191.cif
+  _virtual_196.cif
+  _virtual_198.cif
+  _virtual_231.cif
+  _virtual_245.cif
+  _virtual_45.cif
+  _virtual_50.cif
+  _virtual_86.cif
+
+Group 12:
+  _virtual_109.cif
+  _virtual_205.cif
+  _virtual_342.cif
+
+Group 13:
+  _virtual_11.cif
+  _virtual_234.cif
+  _virtual_37.cif
+
+Group 14:
+  _virtual_110.cif
+  _virtual_181.cif
+  _virtual_352.cif
+
+Group 15:
+  _virtual_111.cif
+  _virtual_169.cif
+  _virtual_271.cif
+  _virtual_62.cif
+
+Group 16:
+  _virtual_112.cif
+  _virtual_246.cif
+
+Group 17:
+  _virtual_113.cif
+  _virtual_2.cif
+  _virtual_204.cif
+  _virtual_221.cif
+  _virtual_318.cif
+
+Group 18:
+  _virtual_114.cif
+  _virtual_123.cif
+  _virtual_228.cif
+  _virtual_250.cif
+  _virtual_253.cif
+  _virtual_262.cif
+  _virtual_266.cif
+  _virtual_288.cif
+  _virtual_309.cif
+  _virtual_54.cif
+  _virtual_84.cif
+
+Group 19:
+  _virtual_115.cif
+  _virtual_139.cif
+  _virtual_15.cif
+  _virtual_156.cif
+  _virtual_338.cif
+  _virtual_344.cif
+  _virtual_5.cif
+  _virtual_83.cif
+
+Group 20:
+  _virtual_117.cif
+  _virtual_163.cif
+  _virtual_226.cif
+  _virtual_371.cif
+
+Group 21:
+  _virtual_119.cif
+
+Group 22:
+  _virtual_120.cif
+  _virtual_141.cif
+  _virtual_142.cif
+  _virtual_199.cif
+  _virtual_235.cif
+  _virtual_294.cif
+  _virtual_32.cif
+  _virtual_324.cif
+
+Group 23:
+  _virtual_121.cif
+  _virtual_189.cif
+  _virtual_243.cif
+  _virtual_273.cif
+  _virtual_310.cif
+  _virtual_92.cif
+
+Group 24:
+  _virtual_124.cif
+  _virtual_251.cif
+  _virtual_340.cif
+  _virtual_354.cif
+  _virtual_394.cif
+  _virtual_6.cif
+  _virtual_89.cif
+
+Group 25:
+  _virtual_125.cif
+  _virtual_183.cif
+  _virtual_24.cif
+  _virtual_336.cif
+  _virtual_386.cif
+  _virtual_46.cif
+  _virtual_52.cif
+
+Group 26:
+  _virtual_126.cif
+  _virtual_256.cif
+  _virtual_279.cif
+  _virtual_48.cif
+
+Group 27:
+  _virtual_127.cif
+  _virtual_274.cif
+  _virtual_304.cif
+  _virtual_362.cif
+  _virtual_59.cif
+
+Group 28:
+  _virtual_129.cif
+  _virtual_140.cif
+  _virtual_144.cif
+  _virtual_159.cif
+  _virtual_213.cif
+  _virtual_23.cif
+  _virtual_258.cif
+  _virtual_316.cif
+  _virtual_335.cif
+  _virtual_370.cif
+
+Group 29:
+  _virtual_132.cif
+  _virtual_295.cif
+  _virtual_349.cif
+  _virtual_43.cif
+  _virtual_79.cif
+
+Group 30:
+  _virtual_133.cif
+  _virtual_17.cif
+  _virtual_203.cif
+  _virtual_29.cif
+  _virtual_311.cif
+  _virtual_68.cif
+
+Group 31:
+  _virtual_134.cif
+  _virtual_195.cif
+  _virtual_239.cif
+  _virtual_64.cif
+  _virtual_71.cif
+  _virtual_81.cif
+
+Group 32:
+  _virtual_135.cif
+  _virtual_365.cif
+
+Group 33:
+  _virtual_138.cif
+  _virtual_157.cif
+  _virtual_242.cif
+  _virtual_244.cif
+  _virtual_297.cif
+  _virtual_326.cif
+  _virtual_366.cif
+
+Group 34:
+  _virtual_14.cif
+  _virtual_178.cif
+  _virtual_257.cif
+  _virtual_26.cif
+  _virtual_376.cif
+
+Group 35:
+  _virtual_143.cif
+  _virtual_238.cif
+  _virtual_25.cif
+  _virtual_55.cif
+
+Group 36:
+  _virtual_146.cif
+  _virtual_16.cif
+  _virtual_215.cif
+  _virtual_225.cif
+  _virtual_263.cif
+  _virtual_305.cif
+  _virtual_320.cif
+  _virtual_38.cif
+  _virtual_90.cif
+
+Group 37:
+  _virtual_148.cif
+  _virtual_200.cif
+  _virtual_259.cif
+  _virtual_313.cif
+  _virtual_325.cif
+  _virtual_395.cif
+
+Group 38:
+  _virtual_149.cif
+  _virtual_164.cif
+  _virtual_265.cif
+  _virtual_275.cif
+  _virtual_3.cif
+  _virtual_358.cif
+  _virtual_369.cif
+
+Group 39:
+  _virtual_150.cif
+  _virtual_202.cif
+  _virtual_206.cif
+  _virtual_347.cif
+  _virtual_356.cif
+  _virtual_391.cif
+
+Group 40:
+  _virtual_151.cif
+  _virtual_267.cif
+  _virtual_285.cif
+
+Group 41:
+  _virtual_153.cif
+  _virtual_308.cif
+
+Group 42:
+  _virtual_154.cif
+  _virtual_194.cif
+  _virtual_207.cif
+  _virtual_209.cif
+  _virtual_214.cif
+  _virtual_276.cif
+  _virtual_36.cif
+  _virtual_368.cif
+
+Group 43:
+  _virtual_158.cif
+
+Group 44:
+  _virtual_161.cif
+  _virtual_174.cif
+  _virtual_190.cif
+  _virtual_47.cif
+  _virtual_51.cif
+  _virtual_78.cif
+  _virtual_99.cif
+
+Group 45:
+  _virtual_165.cif
+  _virtual_286.cif
+  _virtual_293.cif
+  _virtual_298.cif
+  _virtual_302.cif
+  _virtual_66.cif
+
+Group 46:
+  _virtual_167.cif
+  _virtual_212.cif
+  _virtual_222.cif
+
+Group 47:
+  _virtual_168.cif
+  _virtual_18.cif
+  _virtual_208.cif
+  _virtual_375.cif
+  _virtual_383.cif
+  _virtual_39.cif
+
+Group 48:
+  _virtual_170.cif
+
+Group 49:
+  _virtual_171.cif
+  _virtual_322.cif
+  _virtual_57.cif
+
+Group 50:
+  _virtual_172.cif
+  _virtual_185.cif
+  _virtual_317.cif
+  _virtual_331.cif
+  _virtual_377.cif
+  _virtual_44.cif
+  _virtual_8.cif
+
+Group 51:
+  _virtual_175.cif
+  _virtual_346.cif
+  _virtual_384.cif
+
+Group 52:
+  _virtual_176.cif
+  _virtual_261.cif
+  _virtual_277.cif
+  _virtual_42.cif
+  _virtual_74.cif
+
+Group 53:
+  _virtual_177.cif
+  _virtual_229.cif
+  _virtual_357.cif
+  _virtual_70.cif
+
+Group 54:
+  _virtual_182.cif
+  _virtual_219.cif
+  _virtual_296.cif
+
+Group 55:
+  _virtual_184.cif
+  _virtual_211.cif
+  _virtual_372.cif
+  _virtual_93.cif
+
+Group 56:
+  _virtual_186.cif
+  _virtual_187.cif
+  _virtual_270.cif
+
+Group 57:
+  _virtual_188.cif
+  _virtual_67.cif
+
+Group 58:
+  _virtual_19.cif
+  _virtual_237.cif
+  _virtual_280.cif
+  _virtual_291.cif
+  _virtual_382.cif
+  _virtual_53.cif
+  _virtual_76.cif
+
+Group 59:
+  _virtual_192.cif
+  _virtual_312.cif
+  _virtual_381.cif
+
+Group 60:
+  _virtual_193.cif
+  _virtual_236.cif
+  _virtual_28.cif
+  _virtual_306.cif
+  _virtual_31.cif
+  _virtual_98.cif
+
+Group 61:
+  _virtual_201.cif
+  _virtual_289.cif
+  _virtual_378.cif
+  _virtual_388.cif
+  _virtual_392.cif
+  _virtual_69.cif
+
+Group 62:
+  _virtual_21.cif
+  _virtual_264.cif
+  _virtual_330.cif
+  _virtual_373.cif
+  _virtual_80.cif
+
+Group 63:
+  _virtual_210.cif
+  _virtual_22.cif
+  _virtual_360.cif
+  _virtual_361.cif
+  _virtual_363.cif
+  _virtual_390.cif
+
+Group 64:
+  _virtual_216.cif
+  _virtual_269.cif
+  _virtual_374.cif
+  _virtual_95.cif
+  _virtual_96.cif
+
+Group 65:
+  _virtual_217.cif
+  _virtual_314.cif
+  _virtual_73.cif
+
+Group 66:
+  _virtual_223.cif
+
+Group 67:
+  _virtual_224.cif
+  _virtual_397.cif
+  _virtual_40.cif
+
+Group 68:
+  _virtual_227.cif
+  _virtual_353.cif
+  _virtual_367.cif
+  _virtual_97.cif
+
+Group 69:
+  _virtual_230.cif
+
+Group 70:
+  _virtual_232.cif
+  _virtual_72.cif
+
+Group 71:
+  _virtual_240.cif
+
+Group 72:
+  _virtual_241.cif
+  _virtual_348.cif
+
+Group 73:
+  _virtual_248.cif
+
+Group 74:
+  _virtual_249.cif
+
+Group 75:
+  _virtual_255.cif
+  _virtual_327.cif
+  _virtual_329.cif
+  _virtual_332.cif
+
+Group 76:
+  _virtual_27.cif
+  _virtual_65.cif
+
+Group 77:
+  _virtual_272.cif
+  _virtual_380.cif
+  _virtual_61.cif
+
+Group 78:
+  _virtual_278.cif
+  _virtual_9.cif
+
+Group 79:
+  _virtual_281.cif
+  _virtual_319.cif
+  _virtual_343.cif
+
+Group 80:
+  _virtual_283.cif
+  _virtual_333.cif
+  _virtual_359.cif
+  _virtual_77.cif
+
+Group 81:
+  _virtual_284.cif
+  _virtual_303.cif
+
+Group 82:
+  _virtual_287.cif
+  _virtual_328.cif
+
+Group 83:
+  _virtual_290.cif
+  _virtual_41.cif
+  _virtual_63.cif
+
+Group 84:
+  _virtual_292.cif
+  _virtual_364.cif
+
+Group 85:
+  _virtual_299.cif
+  _virtual_341.cif
+  _virtual_49.cif
+  _virtual_60.cif
+
+Group 86:
+  _virtual_301.cif
+
+Group 87:
+  _virtual_307.cif
+  _virtual_88.cif
+
+Group 88:
+  _virtual_337.cif
+  _virtual_350.cif
+  _virtual_56.cif
+  _virtual_58.cif
+
+Group 89:
+  _virtual_345.cif
+
+Group 90:
+  _virtual_355.cif
+
+Group 91:
+  _virtual_379.cif
+
+Group 92:
+  _virtual_389.cif
+  _virtual_91.cif
+
+Group 93:
+  _virtual_396.cif
+
+Group 94:
+  _virtual_399.cif
+
+Group 95:
+  _virtual_4.cif
+
+Group 96:
+  _virtual_82.cif
+
+Degeneracy figure: 304 (out of 400 total cells)

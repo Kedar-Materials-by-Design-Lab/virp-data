@@ -1,0 +1,9 @@
+session,run_id,filename,formula,elements,supercell size,image distance (target),image distance (actual),sample size,relaxer,connectivity_done,properties_done,provenance
+S.23.ZnVO,S.23.1,5_ZnVO3,V10.6672Zn10.6672O32,"['Zn', 'V', 'O']","[2, 2, 2]",15,16.794,400,mace_omat,FALSE,TRUE,
+S.23.ZnVO,S.23.2,0_ZnVO5,V6.4Zn6.4O32,"['V', 'Zn', 'O']","[2, 2, 2]",15,16.794,400,mace_omat,FALSE,TRUE,
+S.23.ZnVO,S.23.3,4_Zn4V4O13,V9.8464Zn9.8464O32,"['Zn', 'V', 'O']","[2, 2, 2]",15,16.794,400,mace_omat,FALSE,TRUE,
+S.23.ZnVO,S.23.4,2_Zn3V3O11,V8.728Zn8.728O32,"['Zn', 'V', 'O']","[2, 2, 2]",15,16.794,400,mace_omat,FALSE,TRUE,
+S.23.ZnVO,S.23.5,1_ZnVO4,VZnO4,"['V', 'Zn', 'O']","[2, 2, 2]",15,16.794,400,mace_omat,FALSE,TRUE,
+S.23.ZnVO,S.23.6,3_Zn2V2O7,V9.1424Zn9.1424O32,"['Zn', 'V', 'O']","[2, 2, 2]",15,16.794,400,mace_omat,FALSE,TRUE,
+S.23.ZnVO,S.23.7,6_Zn4V4O11,V11.6368Zn11.6368O32,"['Zn', 'V', 'O']","[2, 2, 2]",15,16.794,400,mace_omat,FALSE,TRUE,
+S.23.ZnVO,S.23.8,7_Zn3V3O8,V3Zn3O8,"['Zn', 'V', 'O']","[2, 2, 2]",15,16.794,400,mace_omat,FALSE,TRUE,

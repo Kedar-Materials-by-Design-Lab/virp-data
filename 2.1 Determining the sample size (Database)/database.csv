@@ -1,0 +1,82 @@
+session,run_id,filename,formula,elements,supercell size,image distance (target),image distance (actual),sample size,relaxer,connectivity_done,properties_done,provenance
+S.1.basic5,S.1.1,DoublePerov,Cs1Sn0.5Pb0.5I3,"['Cs', 'Sn', 'Pb', 'I']","[3, 3, 3]",15.0,17.77485,400,CHGNET,True,True,Andy
+S.1.basic5,S.1.2,Gehlenite,Ca2Al2SiO7,"['Ca', 'Al' ,'Si', 'O']","[2, 2, 3]",15.0,15.267,400,CHGNET,True,True,Ohkotnikov
+S.1.basic5,S.1.3,Hanada-P1,In4.8Cu1.6Se8,"['In', 'Cu', 'Se']","[3, 3, 2]",15.0,17.28,400,CHGNET,True,True,Hanada
+S.1.basic5,S.1.4,Verkelis,In2.68Te4,"['In', 'Te']","[3, 3, 3]",15.0,18.489,400,CHGNET,True,True,ICSD
+S.1.basic5,S.1.5,Spinel-113,V10.6672Zn10.72O32,"['V', 'Zn', 'O']","[2, 2, 2]",15.0,16.794,400,CHGNET,True,True,Andy
+S.10.B7-N700,S.10.1,HEA,Hf0.4Zr0.4Ta0.4Ti0.4Mo0.4H3,"['Hf', 'Zr', 'Ta', 'Ti', 'Mo', 'H']","[5, 5, 4]",15.0,16.445,700,CHGNET,False,True,ICSD
+S.10.B7-N700,S.10.2,DoublePerov,Cs1Sn0.5Pb0.5I3,"['Cs', 'Sn', 'Pb', 'I']","[3, 3, 3]",15.0,17.77485,700,CHGNET,False,True,Andy
+S.10.B7-N700,S.10.3,Gehlenite,Ca2Al2SiO7,"['Ca', 'Al', 'Si', 'O']","[2, 2, 3]",15.0,15.267,700,CHGNET,False,True,Okhotnikov
+S.10.B7-N700,S.10.4,Spinel,V10.6672Zn10.72O32,"['V', 'Zn', 'O']","[2, 2, 2]",15.0,16.794,700,CHGNET,False,True,Andy
+S.10.B7-N700,S.10.5,Verkelis,In2.68Te4,"['In', 'Te']","[3, 3, 3]",15.0,18.489,700,CHGNET,False,True,ICSD
+S.10.B7-N700,S.10.6,Hanada,In4.8Cu1.6Se8,"['In', 'Cu', 'Se']","[3, 3, 2]",15.0,17.28,700,CHGNET,False,True,Andy
+S.11.ice-112,S.11.1,Ice-Ih-119913,H2O,"['H+', 'O2-']","[1, 1, 2]",4.4948,4.4948,2,CHGNET,False,False,ICSD
+S.12.CoFe-N100,S.12.1,CoFe,Fe1.4Co0.6,"['Fe', 'Co']","[4, 4, 4]",11.4604,11.4604,100,CHGNET,False,True,ICSD
+S.13.CoFe-N400,S.13.1,CoFe,Fe1.4Co0.6,"['Fe', 'Co']","[4, 4, 4]",11.4604,11.4604,400,CHGNET,False,True,ICSD
+S.14.CoFe-N700,S.14.1,CoFe,Fe1.4Co0.6,"['Fe', 'Co']","[4, 4, 4]",11.4604,11.4604,700,CHGNET,False,True,ICSD
+S.15.CoFe-N1000,S.15.1,CoFe,Fe1.4Co0.6,"['Fe', 'Co']","[4, 4, 4]",11.4604,11.4604,1000,CHGNET,False,False,ICSD
+S.16.CoFe-N1300,S.16.1,CoFe,Fe1.4Co0.6,"['Fe', 'Co']","[4, 4, 4]",11.4604,11.4604,1300,CHGNET,False,True,ICSD
+S.19.Verk-N1300,S.19.1,Verkelis,In2.68Te4,"['In', 'Te']","[3, 3, 3]",15.0,18.489,1300,CHGNET,True,True,ICSD
+S.2.HEA,S.2.1,High-entropy_CollCode64141,Hf0.11Zr0.11Ti0.11Nb0.10998Re0.56,"['Hf', 'Zr', 'Ti', 'Nb', 'Re']","[3, 3, 2]",15.0,15.7662,400,CHGNET,False,True,ICSD
+S.2.HEA,S.2.2,High-entropy_CollCode137170,La0.2Ce0.22Pr0.38Nd0.6Sm0.6Bi2S4O1F1,"['La', 'Ce', 'Pr', 'Nd', 'Sm', 'Bi', 'S', 'O', 'F']","[4, 4, 2]",15.0,16.0314,400,CHGNET,False,True,ICSD
+S.2.HEA,S.2.3,High-entropy_CollCode149268,Hf0.4Zr0.4Ta0.4Ti0.4Mo0.4H3,"['Hf', 'Zr', 'Ta', 'Ti', 'Mo', 'H']","[5, 5, 5]",15.0,17.3,400,CHGNET,False,True,ICSD
+S.2.HEA,S.2.4,High-entropy_CollCode149264,Hf0.4Zr0.4Ta0.4Ti0.4Mo0.4H3,"['Hf', 'Zr', 'Ta', 'Ti', 'Mo', 'H']","[5, 5, 4]",15.0,16.445,400,CHGNET,False,True,ICSD
+S.2.HEA,S.2.5,High-entropy_CollCode149266,Hf0.4Zr0.4Ta0.4Ti0.4Mo0.4H3,"['Hf', 'Zr', 'Ta', 'Ti', 'Mo', 'H']","[5, 5, 4]",15.0,15.968,400,CHGNET,False,True,ICSD
+S.2.HEA,S.2.6,High-entropy_CollCode137167,La0.56Ce0.62Pr0.38Nd0.24Sm0.2Bi2S4O1F1,"['La', 'Ce', 'Pr', 'Nd', 'Sm', 'Bi', 'S', 'O', 'F']","[4, 4, 2]",15.0,16.14348,400,CHGNET,False,True,ICSD
+S.2.HEA,S.2.7,High-entropy_CollCode49498,Ti4Co2Ni1.96Sn1.784Sb1.996,"['Ti', 'Co', 'Ni', 'Sn', 'Sb']","[3, 3, 3]",15.0,17.72091,400,CHGNET,False,True,ICSD
+S.2.HEA,S.2.8,Mica_0000836,K2Na0.222Li0.45Mg5.328Fe1.376Si6.624O20F4,"['K', 'Na', 'Li', 'Mg', 'Fe', 'Si', 'O', 'F']","[3, 2, 2]",15.0,15.987,400,CHGNET,False,True,American Mineralogist
+S.2.HEA,S.2.9,High-entropy_CollCode64142,In0.8Ag0.8Sn0.8Bi0.8Te4Pb0.8,"['In', 'Ag', 'Sn', 'Bi', 'Te', 'Pb']","[3, 3, 3]",15.0,18.76638,400,CHGNET,False,True,ICSD
+S.2.HEA,S.2.10,High-entropy_CollCode137168,La0.38Ce0.42Pr0.42Nd0.4Sm0.38Bi2S4O1F1,"['La', 'Ce', 'Pr', 'Nd', 'Sm', 'Bi', 'S', 'O', 'F']","[4, 4, 2]",15.0,16.08184,400,CHGNET,False,True,ICSD
+S.2.HEA,S.2.11,High-entropy_CollCode264461,Zr0.4Sc0.4Nb0.4Pd0.4Rh0.4,"['Zr', 'Sc', 'Nb', 'Pd, 'Rh']","[5, 5, 5]",15.0,16.403,400,CHGNET,False,True,ICSD
+S.2.HEA,S.2.12,High-entropy_CollCode137169,La0.18Ce0.18Pr0.6Nd0.64Sm0.4Bi2S4O1F1,"['La', 'Ce', 'Pr', 'Nd', 'Sm', 'Bi', 'S', 'O', 'F']","[4, 4, 2]",15.0,16.08184,400,CHGNET,False,True,ICSD
+S.2.HEA,S.2.13,High-entropy_CollCode149269,Hf0.4Zr0.4Ta0.4Ti0.4Mo0.4H3,"['Hf', 'Zr', 'Ta', 'Ti', 'Mo', 'H']","[5, 5, 4]",15.0,16.488,400,CHGNET,False,True,ICSD
+S.2.HEA,S.2.14,High-entropy_CollCode149265,Hf0.4Zr0.4Ta0.4Ti0.4Mo0.4H3,"['Hf', 'Zr', 'Ta', 'Ti', 'Mo', 'H']","[5, 5, 5]",15.0,17.12,400,CHGNET,False,True,ICSD
+S.2.HEA,S.2.15,High-entropy_CollCode49497,Ti4Co1.988Ni1.996Sn1.932Sb1.996,"['Ti', 'Co', 'Ni', 'Sn', 'Sb']","[3, 3, 3]",15.0,17.67231,400,CHGNET,False,True,ICSD
+S.20.Geh-N1300,S.20.1,Gehlenite,Ca2Al2SiO7,"['Ca', 'Al', 'Si', 'O']","[2, 2, 3]",15.0,15.267,1300,CHGNET,False,False,Okhotnikov
+S.21.Br-N1300,S.21.1,HEA,Zr0.4Sc0.4Nb0.4Pd0.4Rh0.4,"['Nb', 'Zr', 'Sc', 'Pd', 'Rh']","[5, 5, 5]",15.0,16.403,1300,CHGNET,False,False,ICSD
+S.21.Br-N1300,S.21.2,DoublePerov,Cs1Sn0.5Pb0.5I3,"['Cs', 'Pb', 'Sn', 'I']","[3, 3, 3]",15.0,17.77485,1300,CHGNET,False,False,Pritish
+S.21.Br-N1300,S.21.3,Spinel,V10.6672Zn10.72O32,"['Zn', 'V', 'O']","[2, 2, 2]",15.0,16.794,1300,CHGNET,False,False,Haiwen
+S.21.Br-N1300,S.21.4,Hanada,In4.8Cu1.6Se8,"['In', 'Cu', 'Se']","[3, 3, 2]",15.0,17.28,1300,CHGNET,False,False,Hanada
+S.22.HEA-N700,S.22.1,HEA,Zr0.4Sc0.4Nb0.4Pd0.4Rh0.4,"['Nb', 'Zr', 'Sc', 'Pd', 'Rh']","[5, 5, 5]",15.0,16.403,700,CHGNET,True,True,ICSD
+S.23.ZnVO,S.23.1,5_ZnVO3,V10.6672Zn10.6672O32,"['Zn', 'V', 'O']","[2, 2, 2]",15.0,16.794,400,mace_omat,False,True,
+S.23.ZnVO,S.23.2,0_ZnVO5,V6.4Zn6.4O32,"['V', 'Zn', 'O']","[2, 2, 2]",15.0,16.794,400,mace_omat,False,True,
+S.23.ZnVO,S.23.3,4_Zn4V4O13,V9.8464Zn9.8464O32,"['Zn', 'V', 'O']","[2, 2, 2]",15.0,16.794,400,mace_omat,False,True,
+S.23.ZnVO,S.23.4,2_Zn3V3O11,V8.728Zn8.728O32,"['Zn', 'V', 'O']","[2, 2, 2]",15.0,16.794,400,mace_omat,False,True,
+S.23.ZnVO,S.23.5,1_ZnVO4,VZnO4,"['V', 'Zn', 'O']","[2, 2, 2]",15.0,16.794,400,mace_omat,False,True,
+S.23.ZnVO,S.23.6,3_Zn2V2O7,V9.1424Zn9.1424O32,"['Zn', 'V', 'O']","[2, 2, 2]",15.0,16.794,400,mace_omat,False,True,
+S.23.ZnVO,S.23.7,6_Zn4V4O11,V11.6368Zn11.6368O32,"['Zn', 'V', 'O']","[2, 2, 2]",15.0,16.794,400,mace_omat,False,True,
+S.23.ZnVO,S.23.8,7_Zn3V3O8,V3Zn3O8,"['Zn', 'V', 'O']","[2, 2, 2]",15.0,16.794,400,mace_omat,False,True,
+S.24.Cutite,S.24.1,LT-CuTiTe,Ti6Cu23.9997Te24,"['Ti', 'Cu', 'Te']","[2, 2, 1]",15.0,16.7578,400,mace_omat,True,True,
+S.24.Cutite,S.24.2,RT-CuTiTe,Ti1Cu3.916Te4,"['Ti', 'Cu', 'Te']","[3, 3, 3]",15.0,17.8275,400,mace_omat,True,True,
+S.3.random,S.3.1,1001072,Sr8Ca2.6668Nb5.3332O24,"['Sr', 'Ca', 'Nb', 'O']","[2, 2, 2]",16.38,16.38,400,CHGNET,False,True,ICSD
+S.3.random,S.3.2,1000233,BaYFeCuO5,"['Ba', 'Y', 'Fe', 'Cu', 'O']","[4, 4, 2]",15.312,15.312,400,CHGNET,False,True,ICSD
+S.3.random,S.3.3,1000194,Ca3Mn3O8,"['Ca', 'Mn', 'O']","[3, 2, 3]",15.996,15.996,400,CHGNET,False,True,ICSD
+S.3.random,S.3.4,1001705,Sr0.4Ca0.8Pr2.8Mn4O12,"['Sr', 'Ca', 'Pr', 'Mn', 'O']","[3, 3, 2]",15.3536,15.3536,400,CHGNET,False,True,ICSD
+S.3.random,S.3.5,1001055,Gd0.58Ta1.74W0.26O5,"['Gd', 'Ta', 'W', 'O']","[4, 2, 4]",15.432,15.432,400,CHGNET,False,True,ICSD
+S.3.random,S.3.6,1004049,La3.5Ru4O13,"['La', 'Ru', 'O']","[2, 3, 4]",15.424,15.424,400,CHGNET,False,True,ICSD
+S.3.random,S.3.7,4002464,SrTaNO2,"['Sr', 'Ta', 'N', 'O']","[3, 3, 2]",16.1316,16.1316,400,CHGNET,False,True,ICSD
+S.3.random,S.3.8,4310337,Ca3Ti1Al25.88Au6.919,"['Ca', 'Ti', 'Al', 'Au']","[2, 2, 2]",17.3262,17.3262,400,CHGNET,False,True,ICSD
+S.3.random,S.3.9,1520883,Ba0.8Fe0.8Bi0.4O2.601,"['Ba', 'Fe', 'Bi', 'O']","[4, 4, 4]",16.274,16.274,400,CHGNET,False,True,ICSD
+S.3.random,S.3.10,1519044,Ba0.92Sr0.28La0.48Pr2.32Mn4O12,"['Ba', 'Sr', 'La', 'Pr', 'Mn', 'O']","[3, 2, 3]",15.52046,15.52046,400,CHGNET,False,True,ICSD
+S.3.random,S.3.11,7706150,H8PbC4(N3Cl2)2,"['H', 'Pb', 'C', 'N', 'Cl']","[2, 3, 1]",16.612,16.612,400,CHGNET,False,True,ICSD
+S.3.random,S.3.12,1560610,BaLaInIrO6,"['Ba', 'La', 'In', 'Ir', 'O']","[3, 3, 2]",16.3484,16.3484,400,CHGNET,False,True,ICSD
+S.3.random,S.3.13,4031805,Mg0.5Ti0.65Bi0.8O3,"['Mg', 'Ti', 'Bi', 'O']","[4, 4, 4]",15.92,15.92,400,CHGNET,False,True,ICSD
+S.3.random,S.3.14,1544504,V0.5Fe0.5Pb1O3,"['V', 'Fe', 'Pb', 'O']","[4, 4, 4]",15.2136,15.2136,400,CHGNET,False,True,ICSD
+S.4.Martin,S.4.1,olivine,Na2MnFe(PO4)2,"['Na', 'Mn', 'Fe', 'P', 'O']","[2, 3, 4]",15.0,18.6561,400,CHGNET,True,True,Martin Petersen
+S.4.Martin,S.4.2,maricite,Na2MnFe(PO4)2,"['Na', 'Mn', 'Fe', 'P', 'O']","[2, 3, 4]",15.0,18.59304,400,CHGNET,True,True,Martin Petersen
+S.4.Martin,S.4.3,Na2Fe2SO4,Na5.12Fe3.44000004S6O24,"['Na', 'Mn', 'S', 'O']","[2, 2, 3]",15.0,17.980642,400,CHGNET,False,True,Martin Petersen
+S.5.ice-N100,S.5.1,Ice-Ih-119913,H2O,"['H', 'O']","[4, 4, 3]",15.0,17.9792,1000,CHGNET,True,True,ICSD
+S.6.ice-400,S.6.1,Ice-Ih-119913,H2O,"['H', 'O']","[4, 4, 3]",15.0,17.9792,400,CHGNET,True,True,ICSD
+S.7.ice-s400,S.7.1,Ice-Ih-119913,H2O,"['H', 'O']","[3, 3, 2]",10.0,13.4844,400,CHGNET,True,True,ICSD
+S.8.B7,S.8.1,HEA,Hf0.4Zr0.4Ta0.4Ti0.4Mo0.4H3,"['Hf', 'Zr', 'Ta', 'Ti', 'Mo', 'H']","[5, 5, 4]",15.0,16.445,400,CHGNET,False,True,ICSD
+S.8.B7,S.8.2,DoublePerov,Cs1Sn0.5Pb0.5I3,"['Cs', 'Sn', 'Pb', 'I']","[3, 3, 3]",15.0,17.77485,400,CHGNET,False,True,Andy
+S.8.B7,S.8.3,Gehlenite,Ca2Al2SiO7,"['Ca', 'Al', 'Si', 'O']","[2, 2, 3]",15.0,15.267,400,CHGNET,False,True,Okhotnikov
+S.8.B7,S.8.4,Spinel,V10.6672Zn10.72O32,"['V', 'Zn', 'O']","[2, 2, 2]",15.0,16.794,400,CHGNET,False,True,Andy
+S.8.B7,S.8.5,Verkelis,In2.68Te4,"['In', 'Te']","[3, 3, 3]",15.0,18.489,400,CHGNET,False,True,ICSD
+S.8.B7,S.8.6,Hanada,In4.8Cu1.6Se8,"['In', 'Cu', 'Se']","[3, 3, 2]",15.0,17.28,400,CHGNET,False,True,Andy
+S.9.B7-N100,S.9.1,HEA,Hf0.4Zr0.4Ta0.4Ti0.4Mo0.4H3,"['Hf', 'Zr', 'Ta', 'Ti', 'Mo', 'H']","[5, 5, 4]",15.0,16.445,100,CHGNET,False,True,ICSD
+S.9.B7-N100,S.9.2,DoublePerov,Cs1Sn0.5Pb0.5I3,"['Cs', 'Sn', 'Pb', 'I']","[3, 3, 3]",15.0,17.77485,100,CHGNET,False,True,Andy
+S.9.B7-N100,S.9.3,Gehlenite,Ca2Al2SiO7,"['Ca', 'Al', 'Si', 'O']","[2, 2, 3]",15.0,15.267,100,CHGNET,False,True,Okhotnikov
+S.9.B7-N100,S.9.4,Spinel,V10.6672Zn10.72O32,"['V', 'Zn', 'O']","[2, 2, 2]",15.0,16.794,100,CHGNET,False,True,Andy
+S.9.B7-N100,S.9.5,Verkelis,In2.68Te4,"['In', 'Te']","[3, 3, 3]",15.0,18.489,100,CHGNET,False,True,ICSD
+S.9.B7-N100,S.9.6,Hanada,In4.8Cu1.6Se8,"['In', 'Cu', 'Se']","[3, 3, 2]",15.0,17.28,100,CHGNET,False,True,Andy

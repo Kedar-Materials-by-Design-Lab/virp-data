@@ -1,0 +1,4 @@
+,filename,folder,formula,supercell size,sample size,lattice spacing warning
+0,olivine.cif,_disordered_cifs,Na2MnFe(PO4)2,"[2, 3, 4]",400,False
+1,maricite.cif,_disordered_cifs,Na2MnFe(PO4)2,"[2, 3, 4]",400,False
+2,Na2Fe2SO4.cif,_disordered_cifs,Na5.12Fe3.44000004S6O24,"[2, 2, 3]",400,False

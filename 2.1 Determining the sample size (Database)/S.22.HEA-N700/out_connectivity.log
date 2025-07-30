@@ -1,0 +1,2810 @@
+CHGNet v0.3.0 initialized with 412,525 parameters
+CHGNet will run on cuda
+Processing target data... 
+Reading from file: _disordered_cifs/HEA.vasp
+
+Branch: stropt
+Reading from file: HEA/stropt/HEA_virtual_450_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_323_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_178_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_528_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_233_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_561_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_445_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_232_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_340_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_52_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_35_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_696_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_0_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_509_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_470_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_324_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_100_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_26_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_465_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_627_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_331_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_394_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_563_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_501_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_593_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_112_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_251_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_399_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_92_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_297_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_586_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_160_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_421_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_647_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_443_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_67_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_22_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_17_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_614_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_196_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_612_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_487_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_581_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_524_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_464_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_621_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_683_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_680_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_532_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_284_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_47_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_488_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_623_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_320_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_332_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_120_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_327_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_496_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_72_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_648_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_374_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_518_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_538_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_226_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_207_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_690_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_242_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_685_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_144_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_525_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_335_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_240_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_436_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_638_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_541_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_426_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_342_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_7_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_558_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_666_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_578_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_135_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_234_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_591_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_243_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_480_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_483_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_150_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_64_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_503_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_328_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_404_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_32_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_236_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_643_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_14_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_389_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_579_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_142_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_229_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_622_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_672_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_505_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_619_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_235_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_154_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_263_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_372_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_2_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_296_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_125_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_217_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_121_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_377_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_373_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_69_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_175_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_113_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_23_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_285_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_138_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_136_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_633_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_499_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_642_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_664_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_492_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_460_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_341_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_554_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_222_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_108_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_198_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_472_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_181_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_588_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_361_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_60_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_574_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_523_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_639_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_599_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_6_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_179_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_576_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_118_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_486_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_485_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_230_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_164_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_173_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_283_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_409_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_517_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_462_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_49_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_365_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_264_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_245_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_608_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_71_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_201_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_30_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_205_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_526_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_224_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_300_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_166_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_1_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_346_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_39_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_316_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_559_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_555_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_531_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_159_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_609_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_84_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_174_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_292_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_127_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_594_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_542_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_194_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_116_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_569_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_475_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_562_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_699_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_613_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_692_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_12_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_169_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_560_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_649_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_295_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_697_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_516_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_141_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_506_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_132_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_628_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_440_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_381_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_218_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_611_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_311_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_157_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_367_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_527_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_353_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_79_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_73_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_200_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_27_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_392_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_338_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_659_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_403_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_520_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_356_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_122_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_419_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_273_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_110_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_408_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_21_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_187_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_407_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_482_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_577_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_420_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_435_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_567_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_250_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_262_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_326_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_267_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_98_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_88_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_508_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_168_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_535_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_543_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_430_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_693_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_673_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_143_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_500_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_184_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_669_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_476_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_16_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_438_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_43_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_223_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_46_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_457_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_94_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_355_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_398_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_498_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_33_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_491_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_272_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_199_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_279_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_302_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_180_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_370_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_239_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_288_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_156_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_635_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_455_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_37_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_629_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_277_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_411_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_44_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_446_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_216_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_552_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_280_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_131_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_686_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_248_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_220_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_536_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_467_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_369_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_616_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_414_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_584_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_219_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_254_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_437_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_352_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_626_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_167_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_630_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_473_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_429_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_290_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_183_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_87_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_25_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_322_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_530_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_195_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_203_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_572_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_202_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_101_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_266_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_481_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_204_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_97_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_494_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_163_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_655_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_548_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_441_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_42_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_667_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_617_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_129_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_51_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_96_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_605_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_384_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_601_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_119_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_547_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_564_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_259_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_309_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_582_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_321_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_379_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_694_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_636_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_4_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_109_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_660_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_600_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_358_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_385_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_688_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_468_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_147_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_388_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_410_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_456_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_546_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_231_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_670_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_566_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_691_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_197_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_62_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_668_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_31_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_583_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_646_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_390_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_238_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_70_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_502_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_9_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_303_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_291_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_162_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_347_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_360_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_170_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_38_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_130_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_359_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_128_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_433_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_191_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_192_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_151_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_318_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_317_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_56_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_286_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_587_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_663_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_634_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_575_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_256_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_158_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_225_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_678_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_393_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_687_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_362_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_24_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_461_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_48_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_484_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_152_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_658_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_210_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_253_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_293_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_371_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_319_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_349_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_478_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_81_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_133_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_5_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_287_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_477_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_415_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_585_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_615_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_215_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_75_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_307_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_274_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_345_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_91_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_8_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_640_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_221_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_82_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_102_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_490_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_270_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_65_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_452_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_571_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_282_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_422_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_432_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_333_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_396_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_590_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_418_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_209_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_434_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_521_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_504_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_89_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_589_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_689_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_529_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_406_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_312_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_176_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_463_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_366_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_57_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_265_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_439_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_115_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_19_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_165_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_603_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_299_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_137_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_653_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_34_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_427_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_237_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_519_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_401_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_66_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_329_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_11_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_447_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_268_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_281_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_662_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_674_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_315_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_676_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_607_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_417_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_15_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_54_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_624_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_10_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_148_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_177_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_227_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_449_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_306_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_595_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_513_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_428_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_459_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_123_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_632_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_386_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_310_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_495_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_364_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_657_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_533_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_36_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_620_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_357_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_378_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_74_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_604_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_493_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_671_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_387_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_249_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_545_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_13_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_376_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_382_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_104_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_28_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_171_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_186_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_261_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_695_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_580_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_106_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_212_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_3_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_213_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_661_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_511_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_644_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_289_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_395_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_336_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_654_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_257_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_188_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_596_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_78_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_40_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_80_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_424_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_598_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_20_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_625_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_383_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_350_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_512_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_539_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_208_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_41_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_99_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_544_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_375_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_105_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_458_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_343_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_53_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_469_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_510_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_247_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_652_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_602_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_313_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_301_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_537_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_645_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_400_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_391_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_255_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_258_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_83_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_451_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_241_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_453_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_412_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_423_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_55_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_278_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_454_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_550_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_650_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_126_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_308_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_149_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_549_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_114_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_641_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_466_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_140_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_269_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_570_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_330_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_610_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_18_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_76_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_675_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_474_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_397_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_363_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_339_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_556_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_522_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_63_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_228_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_380_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_354_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_489_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_405_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_58_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_592_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_77_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_59_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_61_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_155_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_553_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_684_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_431_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_565_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_698_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_260_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_90_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_337_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_294_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_252_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_479_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_85_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_124_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_146_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_304_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_677_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_368_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_442_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_471_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_153_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_606_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_557_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_551_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_246_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_637_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_507_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_103_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_573_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_665_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_325_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_206_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_497_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_50_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_534_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_189_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_651_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_656_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_344_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_444_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_107_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_68_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_314_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_540_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_185_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_681_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_413_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_348_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_29_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_618_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_682_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_679_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_93_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_244_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_515_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_182_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_275_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_214_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_425_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_86_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_514_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_139_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_95_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_117_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_193_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_448_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_111_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_172_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_305_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_161_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_145_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_416_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_334_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_351_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_298_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_134_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_45_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_402_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_631_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_190_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_568_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_211_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_276_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_597_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/stropt/HEA_virtual_271_stropt.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Summary of results written to VirtualLibrary.csv
+
+Branch: no_stropt
+Reading from file: HEA/no_stropt/HEA_virtual_344.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_364.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_210.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_371.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_48.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_526.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_169.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_33.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_295.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_580.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_21.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_644.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_689.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_304.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_527.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_378.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_148.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_611.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_352.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_345.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_199.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_144.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_60.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_103.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_118.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_447.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_224.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_361.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_145.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_193.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_211.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_350.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_222.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_424.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_152.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_204.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_522.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_38.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_615.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_234.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_543.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_17.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_14.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_380.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_436.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_585.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_338.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_462.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_520.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_249.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_695.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_577.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_498.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_625.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_56.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_336.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_288.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_220.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_467.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_320.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_384.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_379.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_521.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_500.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_96.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_475.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_167.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_307.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_32.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_130.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_681.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_115.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_261.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_675.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_99.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_572.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_332.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_648.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_588.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_541.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_506.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_221.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_683.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_460.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_556.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_263.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_139.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_129.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_450.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_250.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_76.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_477.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_225.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_191.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_296.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_217.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_132.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_88.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_651.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_486.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_532.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_503.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_621.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_440.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_538.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_79.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_81.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_377.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_395.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_93.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_383.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_142.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_185.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_44.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_84.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_223.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_119.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_283.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_290.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_358.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_293.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_372.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_23.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_176.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_449.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_40.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_455.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_535.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_325.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_375.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_237.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_125.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_75.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_335.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_74.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_172.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_487.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_568.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_409.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_208.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_557.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_340.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_341.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_178.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_105.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_515.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_421.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_203.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_636.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_291.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_635.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_552.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_698.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_582.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_197.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_114.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_691.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_70.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_643.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_510.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_592.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_252.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_367.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_215.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_29.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_69.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_337.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_672.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_537.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_390.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_153.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_53.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_374.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_627.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_406.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_227.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_140.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_599.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_401.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_373.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_327.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_226.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_162.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_241.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_688.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_613.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_459.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_465.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_518.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_660.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_586.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_558.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_180.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_174.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_412.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_39.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_238.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_593.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_231.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_154.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_435.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_179.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_415.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_216.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_600.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_431.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_589.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_10.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_242.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_329.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_602.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_508.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_47.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_359.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_236.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_177.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_314.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_212.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_463.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_245.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_429.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_194.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_539.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_396.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_573.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_590.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_397.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_354.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_676.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_426.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_83.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_603.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_37.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_59.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_34.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_65.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_416.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_20.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_679.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_559.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_308.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_659.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_476.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_2.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_351.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_54.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_668.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_472.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_205.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_246.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_135.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_473.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_634.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_13.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_195.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_632.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_4.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_18.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_46.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_8.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_267.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_97.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_686.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_504.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_253.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_272.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_408.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_513.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_393.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_111.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_481.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_353.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_490.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_312.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_561.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_274.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_110.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_348.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_499.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_316.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_549.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_244.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_255.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_441.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_43.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_326.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_136.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_619.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_305.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_620.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_542.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_578.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_299.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_67.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_564.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_239.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_311.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_386.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_453.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_612.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_533.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_640.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_262.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_6.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_173.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_581.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_85.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_392.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_548.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_628.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_166.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_433.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_80.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_451.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_671.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_207.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_485.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_584.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_427.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_555.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_265.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_626.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_696.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_690.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_394.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_229.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_452.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_530.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_206.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_334.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_213.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_116.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_143.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_82.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_608.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_159.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_545.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_214.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_321.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_576.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_240.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_25.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_471.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_31.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_78.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_28.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_278.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_343.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_596.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_156.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_324.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_5.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_126.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_553.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_121.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_566.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_647.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_693.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_469.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_509.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_601.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_595.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_662.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_478.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_637.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_259.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_479.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_587.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_128.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_280.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_112.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_306.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_437.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_417.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_423.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_294.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_629.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_107.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_186.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_680.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_302.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_30.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_529.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_19.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_275.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_444.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_497.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_464.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_369.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_365.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_524.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_188.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_484.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_349.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_438.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_571.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_597.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_610.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_256.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_402.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_399.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_319.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_385.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_89.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_165.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_77.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_104.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_376.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_382.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_507.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_209.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_277.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_682.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_505.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_694.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_91.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_134.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_120.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_219.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_94.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_100.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_102.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_157.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_346.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_405.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_310.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_124.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_201.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_413.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_58.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_488.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_567.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_66.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_493.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_540.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_315.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_501.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_663.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_98.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_330.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_470.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_649.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_35.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_264.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_604.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_642.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_677.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_411.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_276.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_247.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_232.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_235.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_68.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_309.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_323.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_496.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_652.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_51.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_63.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_410.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_257.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_388.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_665.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_631.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_547.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_495.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_400.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_645.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_108.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_443.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_523.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_151.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_654.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_36.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_149.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_287.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_594.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_422.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_146.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_248.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_554.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_61.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_434.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_366.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_616.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_198.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_155.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_71.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_12.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_158.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_164.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_551.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_685.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_72.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_243.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_419.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_342.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_468.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_64.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_331.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_666.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_623.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_333.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_122.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_363.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_170.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_609.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_24.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_15.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_183.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_41.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_16.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_273.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_113.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_516.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_106.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_439.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_565.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_161.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_687.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_269.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_494.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_92.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_448.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_575.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_678.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_137.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_669.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_86.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_519.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_230.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_87.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_45.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_569.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_407.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_123.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_133.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_617.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_514.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_403.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_456.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_313.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_667.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_674.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_474.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_391.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_184.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_653.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_646.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_370.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_271.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_200.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_22.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_381.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_528.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_26.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_11.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_362.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_150.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_300.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_562.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_270.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_27.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_656.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_322.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_591.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_190.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_606.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_55.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_202.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_357.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_482.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_650.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_641.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_347.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_3.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_181.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_57.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_297.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_418.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_570.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_9.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_684.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_73.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_658.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_131.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_425.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_138.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_286.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_360.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_175.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_192.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_168.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_196.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_661.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_512.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_258.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_218.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_622.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_281.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_546.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_664.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_95.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_574.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_285.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_445.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_182.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_301.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_607.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_534.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_511.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_673.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_633.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_428.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_289.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_141.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_531.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_279.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_328.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_163.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_254.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_699.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_458.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_233.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_62.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_171.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_90.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_187.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_692.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_303.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_356.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_109.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_398.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_52.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_339.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_550.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_389.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_368.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_544.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_127.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_260.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_483.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_318.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_560.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_670.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_638.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_160.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_466.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_457.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_420.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_480.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_49.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_446.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_657.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_618.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_228.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_655.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_268.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_292.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_189.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_697.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_284.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_630.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_117.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_1.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_298.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_414.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_387.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_491.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_50.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_7.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_563.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_502.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_442.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_579.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_430.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_624.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_101.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_583.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_0.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_147.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_454.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_317.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_517.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_489.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_355.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_282.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_614.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_598.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_492.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_42.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_525.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_461.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_639.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_432.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_536.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_251.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_404.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_266.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Reading from file: HEA/no_stropt/HEA_virtual_605.vasp
+Bonding matrix distance:  0.0  Unaverageness:  0.0
+Summary of results written to VirtualLibrary.csv

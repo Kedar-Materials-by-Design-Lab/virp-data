@@ -1,0 +1,15 @@
+session,run_id,filename,formula,elements,supercell size,image distance (target),image distance (actual),sample size,relaxer,connectivity_done,properties_done,provenance
+S.3.random,S.3.1,1001072,Sr8Ca2.6668Nb5.3332O24,"['Sr', 'Ca', 'Nb', 'O']","[2, 2, 2]",16.38,16.38,400,CHGNET,FALSE,TRUE,ICSD
+S.3.random,S.3.2,1000233,BaYFeCuO5,"['Ba', 'Y', 'Fe', 'Cu', 'O']","[4, 4, 2]",15.312,15.312,400,CHGNET,FALSE,TRUE,ICSD
+S.3.random,S.3.3,1000194,Ca3Mn3O8,"['Ca', 'Mn', 'O']","[3, 2, 3]",15.996,15.996,400,CHGNET,FALSE,TRUE,ICSD
+S.3.random,S.3.4,1001705,Sr0.4Ca0.8Pr2.8Mn4O12,"['Sr', 'Ca', 'Pr', 'Mn', 'O']","[3, 3, 2]",15.3536,15.3536,400,CHGNET,FALSE,TRUE,ICSD
+S.3.random,S.3.5,1001055,Gd0.58Ta1.74W0.26O5,"['Gd', 'Ta', 'W', 'O']","[4, 2, 4]",15.432,15.432,400,CHGNET,FALSE,TRUE,ICSD
+S.3.random,S.3.6,1004049,La3.5Ru4O13,"['La', 'Ru', 'O']","[2, 3, 4]",15.424,15.424,400,CHGNET,FALSE,TRUE,ICSD
+S.3.random,S.3.7,4002464,SrTaNO2,"['Sr', 'Ta', 'N', 'O']","[3, 3, 2]",16.1316,16.1316,400,CHGNET,FALSE,TRUE,ICSD
+S.3.random,S.3.8,4310337,Ca3Ti1Al25.88Au6.919,"['Ca', 'Ti', 'Al', 'Au']","[2, 2, 2]",17.3262,17.3262,400,CHGNET,FALSE,TRUE,ICSD
+S.3.random,S.3.9,1520883,Ba0.8Fe0.8Bi0.4O2.601,"['Ba', 'Fe', 'Bi', 'O']","[4, 4, 4]",16.274,16.274,400,CHGNET,FALSE,TRUE,ICSD
+S.3.random,S.3.10,1519044,Ba0.92Sr0.28La0.48Pr2.32Mn4O12,"['Ba', 'Sr', 'La', 'Pr', 'Mn', 'O']","[3, 2, 3]",15.52046,15.52046,400,CHGNET,FALSE,TRUE,ICSD
+S.3.random,S.3.11,7706150,H8PbC4(N3Cl2)2,"['H', 'Pb', 'C', 'N', 'Cl']","[2, 3, 1]",16.612,16.612,400,CHGNET,FALSE,TRUE,ICSD
+S.3.random,S.3.12,1560610,BaLaInIrO6,"['Ba', 'La', 'In', 'Ir', 'O']","[3, 3, 2]",16.3484,16.3484,400,CHGNET,FALSE,TRUE,ICSD
+S.3.random,S.3.13,4031805,Mg0.5Ti0.65Bi0.8O3,"['Mg', 'Ti', 'Bi', 'O']","[4, 4, 4]",15.92,15.92,400,CHGNET,FALSE,TRUE,ICSD
+S.3.random,S.3.14,1544504,V0.5Fe0.5Pb1O3,"['V', 'Fe', 'Pb', 'O']","[4, 4, 4]",15.2136,15.2136,400,CHGNET,FALSE,TRUE,ICSD

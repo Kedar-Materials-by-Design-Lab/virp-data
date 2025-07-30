@@ -1,0 +1,4 @@
+session,run_id,filename,formula,elements,supercell size,image distance (target),image distance (actual),sample size,relaxer,connectivity_done,properties_done,provenance
+S.4.Martin,S.4.1,olivine,Na2MnFe(PO4)2,"['Na', 'Mn', 'Fe', 'P', 'O']","[2, 3, 4]",15,18.6561,400,CHGNET,TRUE,TRUE,Martin Petersen
+S.4.Martin,S.4.2,maricite,Na2MnFe(PO4)2,"['Na', 'Mn', 'Fe', 'P', 'O']","[2, 3, 4]",15,18.59304,400,CHGNET,TRUE,TRUE,Martin Petersen
+S.4.Martin,S.4.3,Na2Fe2SO4,Na5.12Fe3.44000004S6O24,"['Na', 'Mn', 'S', 'O']","[2, 2, 3]",15,17.980642,400,CHGNET,FALSE,TRUE,Martin Petersen

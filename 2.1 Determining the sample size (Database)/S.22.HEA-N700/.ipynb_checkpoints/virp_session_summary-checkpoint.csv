@@ -1,0 +1,2 @@
+session,run_id,filename,formula,elements,supercell size,image distance (target),image distance (actual),sample size,relaxer,connectivity_done,properties_done,provenance
+S.22.HEA-N700,S.22.1,HEA,Zr0.4Sc0.4Nb0.4Pd0.4Rh0.4,"['Nb', 'Zr', 'Sc', 'Pd', 'Rh']","[5, 5, 5]",15.0,16.403000000000002,700,CHGNET,False,False,

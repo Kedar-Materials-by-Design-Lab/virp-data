@@ -1,0 +1,1167 @@
+Energy-equivalent groups (with tolerance):
+
+Group 1 (Energy ~ -3.090044 eV):
+  virtual-id = 0
+
+Group 2 (Energy ~ -3.086311 eV):
+  virtual-id = 1
+
+Group 3 (Energy ~ -3.085154 eV):
+  virtual-id = 2
+
+Group 4 (Energy ~ -3.089460 eV):
+  virtual-id = 3
+
+Group 5 (Energy ~ -3.085553 eV):
+  virtual-id = 4
+
+Group 6 (Energy ~ -3.089233 eV):
+  virtual-id = 5
+
+Group 7 (Energy ~ -3.088513 eV):
+  virtual-id = 6
+
+Group 8 (Energy ~ -3.085092 eV):
+  virtual-id = 7
+
+Group 9 (Energy ~ -3.086157 eV):
+  virtual-id = 8
+
+Group 10 (Energy ~ -3.088400 eV):
+  virtual-id = 9
+
+Group 11 (Energy ~ -3.090511 eV):
+  virtual-id = 10
+
+Group 12 (Energy ~ -3.087591 eV):
+  virtual-id = 11
+
+Group 13 (Energy ~ -3.082644 eV):
+  virtual-id = 12
+
+Group 14 (Energy ~ -3.086027 eV):
+  virtual-id = 13
+  virtual-id = 130
+
+Group 15 (Energy ~ -3.083828 eV):
+  virtual-id = 14
+
+Group 16 (Energy ~ -3.087814 eV):
+  virtual-id = 15
+  virtual-id = 385
+
+Group 17 (Energy ~ -3.087488 eV):
+  virtual-id = 16
+  virtual-id = 126
+
+Group 18 (Energy ~ -3.081236 eV):
+  virtual-id = 17
+
+Group 19 (Energy ~ -3.082728 eV):
+  virtual-id = 18
+
+Group 20 (Energy ~ -3.085449 eV):
+  virtual-id = 19
+
+Group 21 (Energy ~ -3.084610 eV):
+  virtual-id = 20
+
+Group 22 (Energy ~ -3.089438 eV):
+  virtual-id = 21
+
+Group 23 (Energy ~ -3.085573 eV):
+  virtual-id = 22
+
+Group 24 (Energy ~ -3.089207 eV):
+  virtual-id = 23
+  virtual-id = 288
+
+Group 25 (Energy ~ -3.086390 eV):
+  virtual-id = 24
+
+Group 26 (Energy ~ -3.086953 eV):
+  virtual-id = 25
+
+Group 27 (Energy ~ -3.087131 eV):
+  virtual-id = 26
+
+Group 28 (Energy ~ -3.089173 eV):
+  virtual-id = 27
+
+Group 29 (Energy ~ -3.083316 eV):
+  virtual-id = 28
+
+Group 30 (Energy ~ -3.083715 eV):
+  virtual-id = 29
+
+Group 31 (Energy ~ -3.085904 eV):
+  virtual-id = 30
+
+Group 32 (Energy ~ -3.088470 eV):
+  virtual-id = 31
+
+Group 33 (Energy ~ -3.084323 eV):
+  virtual-id = 32
+
+Group 34 (Energy ~ -3.087436 eV):
+  virtual-id = 33
+
+Group 35 (Energy ~ -3.085866 eV):
+  virtual-id = 34
+
+Group 36 (Energy ~ -3.089164 eV):
+  virtual-id = 35
+  virtual-id = 275
+
+Group 37 (Energy ~ -3.086567 eV):
+  virtual-id = 36
+
+Group 38 (Energy ~ -3.084153 eV):
+  virtual-id = 37
+  virtual-id = 281
+
+Group 39 (Energy ~ -3.085103 eV):
+  virtual-id = 38
+
+Group 40 (Energy ~ -3.088204 eV):
+  virtual-id = 39
+
+Group 41 (Energy ~ -3.088491 eV):
+  virtual-id = 40
+
+Group 42 (Energy ~ -3.085626 eV):
+  virtual-id = 41
+
+Group 43 (Energy ~ -3.089102 eV):
+  virtual-id = 42
+
+Group 44 (Energy ~ -3.085874 eV):
+  virtual-id = 43
+
+Group 45 (Energy ~ -3.089552 eV):
+  virtual-id = 44
+
+Group 46 (Energy ~ -3.088264 eV):
+  virtual-id = 45
+
+Group 47 (Energy ~ -3.085501 eV):
+  virtual-id = 46
+
+Group 48 (Energy ~ -3.089940 eV):
+  virtual-id = 47
+
+Group 49 (Energy ~ -3.089389 eV):
+  virtual-id = 48
+
+Group 50 (Energy ~ -3.088446 eV):
+  virtual-id = 49
+
+Group 51 (Energy ~ -3.089320 eV):
+  virtual-id = 50
+
+Group 52 (Energy ~ -3.086623 eV):
+  virtual-id = 51
+
+Group 53 (Energy ~ -3.089234 eV):
+  virtual-id = 52
+
+Group 54 (Energy ~ -3.087766 eV):
+  virtual-id = 53
+
+Group 55 (Energy ~ -3.082043 eV):
+  virtual-id = 54
+
+Group 56 (Energy ~ -3.089673 eV):
+  virtual-id = 55
+
+Group 57 (Energy ~ -3.087064 eV):
+  virtual-id = 56
+
+Group 58 (Energy ~ -3.086668 eV):
+  virtual-id = 57
+
+Group 59 (Energy ~ -3.090354 eV):
+  virtual-id = 58
+
+Group 60 (Energy ~ -3.080728 eV):
+  virtual-id = 59
+
+Group 61 (Energy ~ -3.087381 eV):
+  virtual-id = 60
+
+Group 62 (Energy ~ -3.087473 eV):
+  virtual-id = 61
+
+Group 63 (Energy ~ -3.084534 eV):
+  virtual-id = 62
+
+Group 64 (Energy ~ -3.087067 eV):
+  virtual-id = 63
+
+Group 65 (Energy ~ -3.083337 eV):
+  virtual-id = 64
+
+Group 66 (Energy ~ -3.082789 eV):
+  virtual-id = 65
+
+Group 67 (Energy ~ -3.086576 eV):
+  virtual-id = 66
+
+Group 68 (Energy ~ -3.089713 eV):
+  virtual-id = 67
+
+Group 69 (Energy ~ -3.086669 eV):
+  virtual-id = 68
+
+Group 70 (Energy ~ -3.087930 eV):
+  virtual-id = 69
+
+Group 71 (Energy ~ -3.086719 eV):
+  virtual-id = 70
+
+Group 72 (Energy ~ -3.086611 eV):
+  virtual-id = 71
+  virtual-id = 369
+
+Group 73 (Energy ~ -3.088686 eV):
+  virtual-id = 72
+
+Group 74 (Energy ~ -3.083197 eV):
+  virtual-id = 73
+
+Group 75 (Energy ~ -3.087121 eV):
+  virtual-id = 74
+
+Group 76 (Energy ~ -3.086091 eV):
+  virtual-id = 75
+
+Group 77 (Energy ~ -3.083209 eV):
+  virtual-id = 76
+
+Group 78 (Energy ~ -3.087022 eV):
+  virtual-id = 77
+
+Group 79 (Energy ~ -3.087048 eV):
+  virtual-id = 78
+
+Group 80 (Energy ~ -3.087502 eV):
+  virtual-id = 79
+
+Group 81 (Energy ~ -3.085288 eV):
+  virtual-id = 80
+
+Group 82 (Energy ~ -3.086070 eV):
+  virtual-id = 81
+
+Group 83 (Energy ~ -3.087369 eV):
+  virtual-id = 82
+
+Group 84 (Energy ~ -3.082274 eV):
+  virtual-id = 83
+
+Group 85 (Energy ~ -3.086191 eV):
+  virtual-id = 84
+
+Group 86 (Energy ~ -3.087472 eV):
+  virtual-id = 85
+
+Group 87 (Energy ~ -3.088721 eV):
+  virtual-id = 86
+
+Group 88 (Energy ~ -3.086090 eV):
+  virtual-id = 87
+
+Group 89 (Energy ~ -3.090258 eV):
+  virtual-id = 88
+
+Group 90 (Energy ~ -3.086250 eV):
+  virtual-id = 89
+  virtual-id = 382
+
+Group 91 (Energy ~ -3.087297 eV):
+  virtual-id = 90
+
+Group 92 (Energy ~ -3.089258 eV):
+  virtual-id = 91
+
+Group 93 (Energy ~ -3.088231 eV):
+  virtual-id = 92
+
+Group 94 (Energy ~ -3.085821 eV):
+  virtual-id = 93
+
+Group 95 (Energy ~ -3.087515 eV):
+  virtual-id = 94
+  virtual-id = 296
+
+Group 96 (Energy ~ -3.087806 eV):
+  virtual-id = 95
+
+Group 97 (Energy ~ -3.088248 eV):
+  virtual-id = 96
+
+Group 98 (Energy ~ -3.089075 eV):
+  virtual-id = 97
+
+Group 99 (Energy ~ -3.090359 eV):
+  virtual-id = 98
+
+Group 100 (Energy ~ -3.088369 eV):
+  virtual-id = 99
+
+Group 101 (Energy ~ -3.084926 eV):
+  virtual-id = 100
+
+Group 102 (Energy ~ -3.087985 eV):
+  virtual-id = 101
+  virtual-id = 302
+
+Group 103 (Energy ~ -3.085291 eV):
+  virtual-id = 102
+  virtual-id = 298
+
+Group 104 (Energy ~ -3.085138 eV):
+  virtual-id = 103
+
+Group 105 (Energy ~ -3.086228 eV):
+  virtual-id = 104
+
+Group 106 (Energy ~ -3.088008 eV):
+  virtual-id = 105
+
+Group 107 (Energy ~ -3.084827 eV):
+  virtual-id = 106
+
+Group 108 (Energy ~ -3.080283 eV):
+  virtual-id = 107
+
+Group 109 (Energy ~ -3.086456 eV):
+  virtual-id = 108
+
+Group 110 (Energy ~ -3.087083 eV):
+  virtual-id = 109
+
+Group 111 (Energy ~ -3.086792 eV):
+  virtual-id = 110
+
+Group 112 (Energy ~ -3.086646 eV):
+  virtual-id = 111
+
+Group 113 (Energy ~ -3.088464 eV):
+  virtual-id = 112
+
+Group 114 (Energy ~ -3.090159 eV):
+  virtual-id = 113
+
+Group 115 (Energy ~ -3.084589 eV):
+  virtual-id = 114
+
+Group 116 (Energy ~ -3.081285 eV):
+  virtual-id = 115
+
+Group 117 (Energy ~ -3.088190 eV):
+  virtual-id = 116
+
+Group 118 (Energy ~ -3.091696 eV):
+  virtual-id = 117
+
+Group 119 (Energy ~ -3.087896 eV):
+  virtual-id = 118
+
+Group 120 (Energy ~ -3.085507 eV):
+  virtual-id = 119
+
+Group 121 (Energy ~ -3.082679 eV):
+  virtual-id = 120
+
+Group 122 (Energy ~ -3.087687 eV):
+  virtual-id = 121
+
+Group 123 (Energy ~ -3.091101 eV):
+  virtual-id = 122
+
+Group 124 (Energy ~ -3.084614 eV):
+  virtual-id = 123
+
+Group 125 (Energy ~ -3.089840 eV):
+  virtual-id = 124
+
+Group 126 (Energy ~ -3.083917 eV):
+  virtual-id = 125
+
+Group 127 (Energy ~ -3.086759 eV):
+  virtual-id = 127
+
+Group 128 (Energy ~ -3.088714 eV):
+  virtual-id = 128
+
+Group 129 (Energy ~ -3.086028 eV):
+  virtual-id = 129
+
+Group 130 (Energy ~ -3.089218 eV):
+  virtual-id = 131
+
+Group 131 (Energy ~ -3.088238 eV):
+  virtual-id = 132
+
+Group 132 (Energy ~ -3.085280 eV):
+  virtual-id = 133
+
+Group 133 (Energy ~ -3.086261 eV):
+  virtual-id = 134
+
+Group 134 (Energy ~ -3.085494 eV):
+  virtual-id = 135
+
+Group 135 (Energy ~ -3.085436 eV):
+  virtual-id = 136
+
+Group 136 (Energy ~ -3.084617 eV):
+  virtual-id = 137
+
+Group 137 (Energy ~ -3.090580 eV):
+  virtual-id = 138
+
+Group 138 (Energy ~ -3.084106 eV):
+  virtual-id = 139
+
+Group 139 (Energy ~ -3.090661 eV):
+  virtual-id = 140
+
+Group 140 (Energy ~ -3.087223 eV):
+  virtual-id = 141
+
+Group 141 (Energy ~ -3.086917 eV):
+  virtual-id = 142
+
+Group 142 (Energy ~ -3.089298 eV):
+  virtual-id = 143
+
+Group 143 (Energy ~ -3.082715 eV):
+  virtual-id = 144
+
+Group 144 (Energy ~ -3.089538 eV):
+  virtual-id = 145
+
+Group 145 (Energy ~ -3.088903 eV):
+  virtual-id = 146
+
+Group 146 (Energy ~ -3.084405 eV):
+  virtual-id = 147
+
+Group 147 (Energy ~ -3.085676 eV):
+  virtual-id = 148
+
+Group 148 (Energy ~ -3.083999 eV):
+  virtual-id = 149
+
+Group 149 (Energy ~ -3.087430 eV):
+  virtual-id = 150
+
+Group 150 (Energy ~ -3.088542 eV):
+  virtual-id = 151
+
+Group 151 (Energy ~ -3.089486 eV):
+  virtual-id = 152
+
+Group 152 (Energy ~ -3.087514 eV):
+  virtual-id = 153
+  virtual-id = 265
+
+Group 153 (Energy ~ -3.087187 eV):
+  virtual-id = 154
+
+Group 154 (Energy ~ -3.086709 eV):
+  virtual-id = 155
+
+Group 155 (Energy ~ -3.084489 eV):
+  virtual-id = 156
+
+Group 156 (Energy ~ -3.086802 eV):
+  virtual-id = 157
+
+Group 157 (Energy ~ -3.086744 eV):
+  virtual-id = 158
+  virtual-id = 345
+  virtual-id = 394
+
+Group 158 (Energy ~ -3.083297 eV):
+  virtual-id = 159
+
+Group 159 (Energy ~ -3.089810 eV):
+  virtual-id = 160
+
+Group 160 (Energy ~ -3.087771 eV):
+  virtual-id = 161
+
+Group 161 (Energy ~ -3.089999 eV):
+  virtual-id = 162
+
+Group 162 (Energy ~ -3.089960 eV):
+  virtual-id = 163
+
+Group 163 (Energy ~ -3.084036 eV):
+  virtual-id = 164
+
+Group 164 (Energy ~ -3.086619 eV):
+  virtual-id = 165
+
+Group 165 (Energy ~ -3.086048 eV):
+  virtual-id = 166
+
+Group 166 (Energy ~ -3.085790 eV):
+  virtual-id = 167
+
+Group 167 (Energy ~ -3.085995 eV):
+  virtual-id = 168
+
+Group 168 (Energy ~ -3.082284 eV):
+  virtual-id = 169
+
+Group 169 (Energy ~ -3.089104 eV):
+  virtual-id = 170
+
+Group 170 (Energy ~ -3.087736 eV):
+  virtual-id = 171
+
+Group 171 (Energy ~ -3.084810 eV):
+  virtual-id = 172
+
+Group 172 (Energy ~ -3.084458 eV):
+  virtual-id = 173
+
+Group 173 (Energy ~ -3.088172 eV):
+  virtual-id = 174
+
+Group 174 (Energy ~ -3.087421 eV):
+  virtual-id = 175
+
+Group 175 (Energy ~ -3.086277 eV):
+  virtual-id = 176
+
+Group 176 (Energy ~ -3.086321 eV):
+  virtual-id = 177
+
+Group 177 (Energy ~ -3.088643 eV):
+  virtual-id = 178
+
+Group 178 (Energy ~ -3.082570 eV):
+  virtual-id = 179
+
+Group 179 (Energy ~ -3.087885 eV):
+  virtual-id = 180
+
+Group 180 (Energy ~ -3.087161 eV):
+  virtual-id = 181
+
+Group 181 (Energy ~ -3.087587 eV):
+  virtual-id = 182
+
+Group 182 (Energy ~ -3.084878 eV):
+  virtual-id = 183
+
+Group 183 (Energy ~ -3.088983 eV):
+  virtual-id = 184
+
+Group 184 (Energy ~ -3.086923 eV):
+  virtual-id = 185
+
+Group 185 (Energy ~ -3.087446 eV):
+  virtual-id = 186
+
+Group 186 (Energy ~ -3.089282 eV):
+  virtual-id = 187
+
+Group 187 (Energy ~ -3.083088 eV):
+  virtual-id = 188
+
+Group 188 (Energy ~ -3.085294 eV):
+  virtual-id = 189
+
+Group 189 (Energy ~ -3.088761 eV):
+  virtual-id = 190
+
+Group 190 (Energy ~ -3.081886 eV):
+  virtual-id = 191
+
+Group 191 (Energy ~ -3.088392 eV):
+  virtual-id = 192
+
+Group 192 (Energy ~ -3.084400 eV):
+  virtual-id = 193
+
+Group 193 (Energy ~ -3.086271 eV):
+  virtual-id = 194
+
+Group 194 (Energy ~ -3.085798 eV):
+  virtual-id = 195
+
+Group 195 (Energy ~ -3.089882 eV):
+  virtual-id = 196
+
+Group 196 (Energy ~ -3.086665 eV):
+  virtual-id = 197
+
+Group 197 (Energy ~ -3.086185 eV):
+  virtual-id = 198
+
+Group 198 (Energy ~ -3.086045 eV):
+  virtual-id = 199
+
+Group 199 (Energy ~ -3.088658 eV):
+  virtual-id = 200
+
+Group 200 (Energy ~ -3.086657 eV):
+  virtual-id = 201
+
+Group 201 (Energy ~ -3.087142 eV):
+  virtual-id = 202
+
+Group 202 (Energy ~ -3.090918 eV):
+  virtual-id = 203
+
+Group 203 (Energy ~ -3.088805 eV):
+  virtual-id = 204
+
+Group 204 (Energy ~ -3.082904 eV):
+  virtual-id = 205
+
+Group 205 (Energy ~ -3.090014 eV):
+  virtual-id = 206
+
+Group 206 (Energy ~ -3.086402 eV):
+  virtual-id = 207
+
+Group 207 (Energy ~ -3.088746 eV):
+  virtual-id = 208
+  virtual-id = 289
+
+Group 208 (Energy ~ -3.089370 eV):
+  virtual-id = 209
+
+Group 209 (Energy ~ -3.088305 eV):
+  virtual-id = 210
+
+Group 210 (Energy ~ -3.090979 eV):
+  virtual-id = 211
+
+Group 211 (Energy ~ -3.085440 eV):
+  virtual-id = 212
+
+Group 212 (Energy ~ -3.087136 eV):
+  virtual-id = 213
+
+Group 213 (Energy ~ -3.082791 eV):
+  virtual-id = 214
+
+Group 214 (Energy ~ -3.088412 eV):
+  virtual-id = 215
+
+Group 215 (Energy ~ -3.087474 eV):
+  virtual-id = 216
+
+Group 216 (Energy ~ -3.088848 eV):
+  virtual-id = 217
+
+Group 217 (Energy ~ -3.089359 eV):
+  virtual-id = 218
+
+Group 218 (Energy ~ -3.088344 eV):
+  virtual-id = 219
+
+Group 219 (Energy ~ -3.083072 eV):
+  virtual-id = 220
+
+Group 220 (Energy ~ -3.088752 eV):
+  virtual-id = 221
+
+Group 221 (Energy ~ -3.088333 eV):
+  virtual-id = 222
+
+Group 222 (Energy ~ -3.083712 eV):
+  virtual-id = 223
+
+Group 223 (Energy ~ -3.085477 eV):
+  virtual-id = 224
+
+Group 224 (Energy ~ -3.088389 eV):
+  virtual-id = 225
+
+Group 225 (Energy ~ -3.087267 eV):
+  virtual-id = 226
+
+Group 226 (Energy ~ -3.088692 eV):
+  virtual-id = 227
+
+Group 227 (Energy ~ -3.082365 eV):
+  virtual-id = 228
+
+Group 228 (Energy ~ -3.090816 eV):
+  virtual-id = 229
+
+Group 229 (Energy ~ -3.091622 eV):
+  virtual-id = 230
+
+Group 230 (Energy ~ -3.083899 eV):
+  virtual-id = 231
+
+Group 231 (Energy ~ -3.083367 eV):
+  virtual-id = 232
+
+Group 232 (Energy ~ -3.084963 eV):
+  virtual-id = 233
+
+Group 233 (Energy ~ -3.089668 eV):
+  virtual-id = 234
+
+Group 234 (Energy ~ -3.086670 eV):
+  virtual-id = 235
+
+Group 235 (Energy ~ -3.090694 eV):
+  virtual-id = 236
+
+Group 236 (Energy ~ -3.090468 eV):
+  virtual-id = 237
+
+Group 237 (Energy ~ -3.089757 eV):
+  virtual-id = 238
+
+Group 238 (Energy ~ -3.090435 eV):
+  virtual-id = 239
+
+Group 239 (Energy ~ -3.086796 eV):
+  virtual-id = 240
+
+Group 240 (Energy ~ -3.087501 eV):
+  virtual-id = 241
+
+Group 241 (Energy ~ -3.091561 eV):
+  virtual-id = 242
+
+Group 242 (Energy ~ -3.088496 eV):
+  virtual-id = 243
+
+Group 243 (Energy ~ -3.085957 eV):
+  virtual-id = 244
+
+Group 244 (Energy ~ -3.087590 eV):
+  virtual-id = 245
+
+Group 245 (Energy ~ -3.081930 eV):
+  virtual-id = 246
+
+Group 246 (Energy ~ -3.088867 eV):
+  virtual-id = 247
+
+Group 247 (Energy ~ -3.088273 eV):
+  virtual-id = 248
+
+Group 248 (Energy ~ -3.084903 eV):
+  virtual-id = 249
+
+Group 249 (Energy ~ -3.086220 eV):
+  virtual-id = 250
+
+Group 250 (Energy ~ -3.081259 eV):
+  virtual-id = 251
+
+Group 251 (Energy ~ -3.084539 eV):
+  virtual-id = 252
+
+Group 252 (Energy ~ -3.089110 eV):
+  virtual-id = 253
+  virtual-id = 311
+
+Group 253 (Energy ~ -3.090137 eV):
+  virtual-id = 254
+
+Group 254 (Energy ~ -3.089178 eV):
+  virtual-id = 255
+
+Group 255 (Energy ~ -3.085735 eV):
+  virtual-id = 256
+
+Group 256 (Energy ~ -3.088939 eV):
+  virtual-id = 257
+
+Group 257 (Energy ~ -3.084118 eV):
+  virtual-id = 258
+
+Group 258 (Energy ~ -3.083595 eV):
+  virtual-id = 259
+
+Group 259 (Energy ~ -3.082400 eV):
+  virtual-id = 260
+
+Group 260 (Energy ~ -3.086929 eV):
+  virtual-id = 261
+
+Group 261 (Energy ~ -3.087477 eV):
+  virtual-id = 262
+
+Group 262 (Energy ~ -3.088647 eV):
+  virtual-id = 263
+
+Group 263 (Energy ~ -3.087519 eV):
+  virtual-id = 264
+
+Group 264 (Energy ~ -3.085078 eV):
+  virtual-id = 266
+
+Group 265 (Energy ~ -3.085439 eV):
+  virtual-id = 267
+
+Group 266 (Energy ~ -3.090261 eV):
+  virtual-id = 268
+
+Group 267 (Energy ~ -3.084974 eV):
+  virtual-id = 269
+
+Group 268 (Energy ~ -3.088375 eV):
+  virtual-id = 270
+
+Group 269 (Energy ~ -3.088699 eV):
+  virtual-id = 271
+
+Group 270 (Energy ~ -3.086889 eV):
+  virtual-id = 272
+
+Group 271 (Energy ~ -3.087000 eV):
+  virtual-id = 273
+
+Group 272 (Energy ~ -3.083561 eV):
+  virtual-id = 274
+
+Group 273 (Energy ~ -3.086572 eV):
+  virtual-id = 276
+
+Group 274 (Energy ~ -3.088445 eV):
+  virtual-id = 277
+
+Group 275 (Energy ~ -3.090185 eV):
+  virtual-id = 278
+
+Group 276 (Energy ~ -3.081311 eV):
+  virtual-id = 279
+
+Group 277 (Energy ~ -3.088071 eV):
+  virtual-id = 280
+
+Group 278 (Energy ~ -3.088664 eV):
+  virtual-id = 282
+
+Group 279 (Energy ~ -3.084177 eV):
+  virtual-id = 283
+
+Group 280 (Energy ~ -3.086731 eV):
+  virtual-id = 284
+
+Group 281 (Energy ~ -3.082963 eV):
+  virtual-id = 285
+
+Group 282 (Energy ~ -3.088007 eV):
+  virtual-id = 286
+
+Group 283 (Energy ~ -3.088108 eV):
+  virtual-id = 287
+
+Group 284 (Energy ~ -3.090307 eV):
+  virtual-id = 290
+
+Group 285 (Energy ~ -3.086226 eV):
+  virtual-id = 291
+
+Group 286 (Energy ~ -3.086502 eV):
+  virtual-id = 292
+
+Group 287 (Energy ~ -3.088784 eV):
+  virtual-id = 293
+
+Group 288 (Energy ~ -3.088617 eV):
+  virtual-id = 294
+
+Group 289 (Energy ~ -3.086625 eV):
+  virtual-id = 295
+
+Group 290 (Energy ~ -3.087078 eV):
+  virtual-id = 297
+
+Group 291 (Energy ~ -3.089448 eV):
+  virtual-id = 299
+
+Group 292 (Energy ~ -3.084990 eV):
+  virtual-id = 300
+  virtual-id = 366
+
+Group 293 (Energy ~ -3.086638 eV):
+  virtual-id = 301
+
+Group 294 (Energy ~ -3.084059 eV):
+  virtual-id = 303
+
+Group 295 (Energy ~ -3.084558 eV):
+  virtual-id = 304
+
+Group 296 (Energy ~ -3.091107 eV):
+  virtual-id = 305
+
+Group 297 (Energy ~ -3.086383 eV):
+  virtual-id = 306
+
+Group 298 (Energy ~ -3.084424 eV):
+  virtual-id = 307
+
+Group 299 (Energy ~ -3.084603 eV):
+  virtual-id = 308
+
+Group 300 (Energy ~ -3.085726 eV):
+  virtual-id = 309
+
+Group 301 (Energy ~ -3.086285 eV):
+  virtual-id = 310
+
+Group 302 (Energy ~ -3.086618 eV):
+  virtual-id = 312
+
+Group 303 (Energy ~ -3.087520 eV):
+  virtual-id = 313
+
+Group 304 (Energy ~ -3.088432 eV):
+  virtual-id = 314
+
+Group 305 (Energy ~ -3.090849 eV):
+  virtual-id = 315
+
+Group 306 (Energy ~ -3.089094 eV):
+  virtual-id = 316
+
+Group 307 (Energy ~ -3.088840 eV):
+  virtual-id = 317
+
+Group 308 (Energy ~ -3.090058 eV):
+  virtual-id = 318
+
+Group 309 (Energy ~ -3.089682 eV):
+  virtual-id = 319
+
+Group 310 (Energy ~ -3.079083 eV):
+  virtual-id = 320
+
+Group 311 (Energy ~ -3.085277 eV):
+  virtual-id = 321
+
+Group 312 (Energy ~ -3.087063 eV):
+  virtual-id = 322
+
+Group 313 (Energy ~ -3.086433 eV):
+  virtual-id = 323
+
+Group 314 (Energy ~ -3.089387 eV):
+  virtual-id = 324
+
+Group 315 (Energy ~ -3.087734 eV):
+  virtual-id = 325
+
+Group 316 (Energy ~ -3.089885 eV):
+  virtual-id = 326
+
+Group 317 (Energy ~ -3.086147 eV):
+  virtual-id = 327
+
+Group 318 (Energy ~ -3.084559 eV):
+  virtual-id = 328
+
+Group 319 (Energy ~ -3.084180 eV):
+  virtual-id = 329
+
+Group 320 (Energy ~ -3.089452 eV):
+  virtual-id = 330
+
+Group 321 (Energy ~ -3.090388 eV):
+  virtual-id = 331
+
+Group 322 (Energy ~ -3.085425 eV):
+  virtual-id = 332
+
+Group 323 (Energy ~ -3.090643 eV):
+  virtual-id = 333
+
+Group 324 (Energy ~ -3.081412 eV):
+  virtual-id = 334
+
+Group 325 (Energy ~ -3.087832 eV):
+  virtual-id = 335
+
+Group 326 (Energy ~ -3.086989 eV):
+  virtual-id = 336
+
+Group 327 (Energy ~ -3.084890 eV):
+  virtual-id = 337
+
+Group 328 (Energy ~ -3.089378 eV):
+  virtual-id = 338
+
+Group 329 (Energy ~ -3.085680 eV):
+  virtual-id = 339
+
+Group 330 (Energy ~ -3.087259 eV):
+  virtual-id = 340
+
+Group 331 (Energy ~ -3.086306 eV):
+  virtual-id = 341
+
+Group 332 (Energy ~ -3.080088 eV):
+  virtual-id = 342
+
+Group 333 (Energy ~ -3.088727 eV):
+  virtual-id = 343
+
+Group 334 (Energy ~ -3.086998 eV):
+  virtual-id = 344
+
+Group 335 (Energy ~ -3.092180 eV):
+  virtual-id = 346
+
+Group 336 (Energy ~ -3.086877 eV):
+  virtual-id = 347
+
+Group 337 (Energy ~ -3.088866 eV):
+  virtual-id = 348
+
+Group 338 (Energy ~ -3.087469 eV):
+  virtual-id = 349
+
+Group 339 (Energy ~ -3.085071 eV):
+  virtual-id = 350
+
+Group 340 (Energy ~ -3.085815 eV):
+  virtual-id = 351
+
+Group 341 (Energy ~ -3.087284 eV):
+  virtual-id = 352
+
+Group 342 (Energy ~ -3.084668 eV):
+  virtual-id = 353
+
+Group 343 (Energy ~ -3.089724 eV):
+  virtual-id = 354
+
+Group 344 (Energy ~ -3.087740 eV):
+  virtual-id = 355
+
+Group 345 (Energy ~ -3.086578 eV):
+  virtual-id = 356
+
+Group 346 (Energy ~ -3.087916 eV):
+  virtual-id = 357
+
+Group 347 (Energy ~ -3.084131 eV):
+  virtual-id = 358
+
+Group 348 (Energy ~ -3.085347 eV):
+  virtual-id = 359
+
+Group 349 (Energy ~ -3.085939 eV):
+  virtual-id = 360
+
+Group 350 (Energy ~ -3.084426 eV):
+  virtual-id = 361
+
+Group 351 (Energy ~ -3.086598 eV):
+  virtual-id = 362
+  virtual-id = 365
+
+Group 352 (Energy ~ -3.087054 eV):
+  virtual-id = 363
+
+Group 353 (Energy ~ -3.090838 eV):
+  virtual-id = 364
+
+Group 354 (Energy ~ -3.087036 eV):
+  virtual-id = 367
+
+Group 355 (Energy ~ -3.087867 eV):
+  virtual-id = 368
+
+Group 356 (Energy ~ -3.089813 eV):
+  virtual-id = 370
+
+Group 357 (Energy ~ -3.088452 eV):
+  virtual-id = 371
+
+Group 358 (Energy ~ -3.081771 eV):
+  virtual-id = 372
+
+Group 359 (Energy ~ -3.088473 eV):
+  virtual-id = 373
+
+Group 360 (Energy ~ -3.085789 eV):
+  virtual-id = 374
+
+Group 361 (Energy ~ -3.085303 eV):
+  virtual-id = 375
+
+Group 362 (Energy ~ -3.089204 eV):
+  virtual-id = 376
+
+Group 363 (Energy ~ -3.085315 eV):
+  virtual-id = 377
+
+Group 364 (Energy ~ -3.087714 eV):
+  virtual-id = 378
+
+Group 365 (Energy ~ -3.083640 eV):
+  virtual-id = 379
+
+Group 366 (Energy ~ -3.088877 eV):
+  virtual-id = 380
+
+Group 367 (Energy ~ -3.079811 eV):
+  virtual-id = 381
+
+Group 368 (Energy ~ -3.087596 eV):
+  virtual-id = 383
+
+Group 369 (Energy ~ -3.088871 eV):
+  virtual-id = 384
+
+Group 370 (Energy ~ -3.091572 eV):
+  virtual-id = 386
+
+Group 371 (Energy ~ -3.083246 eV):
+  virtual-id = 387
+
+Group 372 (Energy ~ -3.088895 eV):
+  virtual-id = 388
+
+Group 373 (Energy ~ -3.088944 eV):
+  virtual-id = 389
+
+Group 374 (Energy ~ -3.090433 eV):
+  virtual-id = 390
+
+Group 375 (Energy ~ -3.087117 eV):
+  virtual-id = 391
+
+Group 376 (Energy ~ -3.088083 eV):
+  virtual-id = 392
+
+Group 377 (Energy ~ -3.089547 eV):
+  virtual-id = 393
+
+Group 378 (Energy ~ -3.088444 eV):
+  virtual-id = 395
+
+Group 379 (Energy ~ -3.085443 eV):
+  virtual-id = 396
+
+Group 380 (Energy ~ -3.086888 eV):
+  virtual-id = 397
+
+Group 381 (Energy ~ -3.086812 eV):
+  virtual-id = 398
+
+Group 382 (Energy ~ -3.084886 eV):
+  virtual-id = 399
+
+Degeneracy figure: 18 (out of 400 total entries)

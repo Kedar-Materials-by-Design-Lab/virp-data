@@ -1,0 +1,5 @@
+session,run_id,filename,formula,elements,supercell size,image distance (target),image distance (actual),sample size,relaxer,connectivity_done,properties_done,provenance
+S.21.Br-N1300,S.21.1,HEA,Zr0.4Sc0.4Nb0.4Pd0.4Rh0.4,"['Nb', 'Zr', 'Sc', 'Pd', 'Rh']","[5, 5, 5]",15,16.403,1300,CHGNET,FALSE,FALSE,ICSD
+S.21.Br-N1300,S.21.2,DoublePerov,Cs1Sn0.5Pb0.5I3,"['Cs', 'Pb', 'Sn', 'I']","[3, 3, 3]",15,17.77485,1300,CHGNET,FALSE,FALSE,Pritish
+S.21.Br-N1300,S.21.3,Spinel,V10.6672Zn10.72O32,"['Zn', 'V', 'O']","[2, 2, 2]",15,16.794,1300,CHGNET,FALSE,FALSE,Haiwen
+S.21.Br-N1300,S.21.4,Hanada,In4.8Cu1.6Se8,"['In', 'Cu', 'Se']","[3, 3, 2]",15,17.28,1300,CHGNET,FALSE,FALSE,Hanada

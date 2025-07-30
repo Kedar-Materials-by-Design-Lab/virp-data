@@ -1,0 +1,2 @@
+session,run_id,filename,formula,elements,supercell size,image distance (target),image distance (actual),sample size,relaxer,connectivity_done,properties_done,provenance
+S.15.CoFe-N1000,S.15.1,CoFe,Fe1.4Co0.6,"['Fe', 'Co']","[4, 4, 4]",11.4604,11.4604,1000,CHGNET,FALSE,FALSE,ICSD

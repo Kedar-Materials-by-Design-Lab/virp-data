@@ -1,0 +1,2 @@
+session,run_id,filename,formula,elements,supercell size,image distance (target),image distance (actual),sample size,relaxer,connectivity_done,properties_done,provenance
+S.19.Verk-N1300,S.19.1,Verkelis,In2.68Te4,"['In', 'Te']","[3, 3, 3]",15,18.489,1300,CHGNET,TRUE,TRUE,ICSD

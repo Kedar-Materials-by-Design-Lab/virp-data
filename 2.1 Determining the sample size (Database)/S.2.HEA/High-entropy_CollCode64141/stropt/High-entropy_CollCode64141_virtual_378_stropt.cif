@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_HfZrTiNb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23552139
+_cell_length_b   6.49220537
+_cell_length_c   5.71811208
+_cell_angle_alpha   118.20742731
+_cell_angle_beta   64.23952216
+_cell_angle_gamma   125.29024072
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfZrTiNb
+_chemical_formula_sum   'Hf2 Zr2 Ti2 Nb2'
+_cell_volume   162.25217667
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.87978868  0.50484655  0.42891749  1
+  Hf  Hf1  1  0.37213670  0.50876061  -0.04681492  1
+  Zr  Zr2  1  0.86172768  -0.00736526  -0.04726475  1
+  Zr  Zr3  1  0.37291455  1.01943042  0.48224724  1
+  Ti  Ti4  1  1.00282156  0.14178457  0.46823321  1
+  Ti  Ti5  1  0.46762845  0.13461537  0.00190270  1
+  Nb  Nb6  1  0.98537113  0.61102488  0.93625553  1
+  Nb  Nb7  1  0.49828019  0.64623400  0.46792350  1

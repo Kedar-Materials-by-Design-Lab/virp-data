@@ -1,0 +1,2 @@
+session,run_id,filename,formula,elements,supercell size,image distance (target),image distance (actual),sample size,relaxer,connectivity_done,properties_done,provenance
+S.11.ice-112,S.11.1,Ice-Ih-119913,H2O,"['H+', 'O2-']","[1, 1, 2]",4.4948,4.4948,2,CHGNET,FALSE,FALSE,ICSD

@@ -1,0 +1,7 @@
+session,run_id,filename,formula,elements,supercell size,image distance (target),image distance (actual),sample size,relaxer,connectivity_done,properties_done,provenance
+S.10.B7-N700,S.10.1,HEA,Hf0.4Zr0.4Ta0.4Ti0.4Mo0.4H3,"['Hf', 'Zr', 'Ta', 'Ti', 'Mo', 'H']","[5, 5, 4]",15,16.445,700,CHGNET,FALSE,TRUE,ICSD
+S.10.B7-N700,S.10.2,DoublePerov,Cs1Sn0.5Pb0.5I3,"['Cs', 'Sn', 'Pb', 'I']","[3, 3, 3]",15,17.77485,700,CHGNET,FALSE,TRUE,Andy
+S.10.B7-N700,S.10.3,Gehlenite,Ca2Al2SiO7,"['Ca', 'Al', 'Si', 'O']","[2, 2, 3]",15,15.267,700,CHGNET,FALSE,TRUE,Okhotnikov
+S.10.B7-N700,S.10.4,Spinel,V10.6672Zn10.72O32,"['V', 'Zn', 'O']","[2, 2, 2]",15,16.794,700,CHGNET,FALSE,TRUE,Andy
+S.10.B7-N700,S.10.5,Verkelis,In2.68Te4,"['In', 'Te']","[3, 3, 3]",15,18.489,700,CHGNET,FALSE,TRUE,ICSD
+S.10.B7-N700,S.10.6,Hanada,In4.8Cu1.6Se8,"['In', 'Cu', 'Se']","[3, 3, 2]",15,17.28,700,CHGNET,FALSE,TRUE,Andy

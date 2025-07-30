@@ -1,0 +1,16 @@
+session,run_id,filename,formula,elements,supercell size,image distance (target),image distance (actual),sample size,relaxer,connectivity_done,properties_done,provenance
+S.2.HEA,S.2.1,High-entropy_CollCode64141,Hf0.11Zr0.11Ti0.11Nb0.10998Re0.56,"['Hf', 'Zr', 'Ti', 'Nb', 'Re']","[3, 3, 2]",15,15.7662,400,CHGNET,FALSE,TRUE,ICSD
+S.2.HEA,S.2.2,High-entropy_CollCode137170,La0.2Ce0.22Pr0.38Nd0.6Sm0.6Bi2S4O1F1,"['La', 'Ce', 'Pr', 'Nd', 'Sm', 'Bi', 'S', 'O', 'F']","[4, 4, 2]",15,16.0314,400,CHGNET,FALSE,TRUE,ICSD
+S.2.HEA,S.2.3,High-entropy_CollCode149268,Hf0.4Zr0.4Ta0.4Ti0.4Mo0.4H3,"['Hf', 'Zr', 'Ta', 'Ti', 'Mo', 'H']","[5, 5, 5]",15,17.3,400,CHGNET,FALSE,TRUE,ICSD
+S.2.HEA,S.2.4,High-entropy_CollCode149264,Hf0.4Zr0.4Ta0.4Ti0.4Mo0.4H3,"['Hf', 'Zr', 'Ta', 'Ti', 'Mo', 'H']","[5, 5, 4]",15,16.445,400,CHGNET,FALSE,TRUE,ICSD
+S.2.HEA,S.2.5,High-entropy_CollCode149266,Hf0.4Zr0.4Ta0.4Ti0.4Mo0.4H3,"['Hf', 'Zr', 'Ta', 'Ti', 'Mo', 'H']","[5, 5, 4]",15,15.968,400,CHGNET,FALSE,TRUE,ICSD
+S.2.HEA,S.2.6,High-entropy_CollCode137167,La0.56Ce0.62Pr0.38Nd0.24Sm0.2Bi2S4O1F1,"['La', 'Ce', 'Pr', 'Nd', 'Sm', 'Bi', 'S', 'O', 'F']","[4, 4, 2]",15,16.14348,400,CHGNET,FALSE,TRUE,ICSD
+S.2.HEA,S.2.7,High-entropy_CollCode49498,Ti4Co2Ni1.96Sn1.784Sb1.996,"['Ti', 'Co', 'Ni', 'Sn', 'Sb']","[3, 3, 3]",15,17.72091,400,CHGNET,FALSE,TRUE,ICSD
+S.2.HEA,S.2.8,Mica_0000836,K2Na0.222Li0.45Mg5.328Fe1.376Si6.624O20F4,"['K', 'Na', 'Li', 'Mg', 'Fe', 'Si', 'O', 'F']","[3, 2, 2]",15,15.987,400,CHGNET,FALSE,TRUE,American Mineralogist
+S.2.HEA,S.2.9,High-entropy_CollCode64142,In0.8Ag0.8Sn0.8Bi0.8Te4Pb0.8,"['In', 'Ag', 'Sn', 'Bi', 'Te', 'Pb']","[3, 3, 3]",15,18.76638,400,CHGNET,FALSE,TRUE,ICSD
+S.2.HEA,S.2.10,High-entropy_CollCode137168,La0.38Ce0.42Pr0.42Nd0.4Sm0.38Bi2S4O1F1,"['La', 'Ce', 'Pr', 'Nd', 'Sm', 'Bi', 'S', 'O', 'F']","[4, 4, 2]",15,16.08184,400,CHGNET,FALSE,TRUE,ICSD
+S.2.HEA,S.2.11,High-entropy_CollCode264461,Zr0.4Sc0.4Nb0.4Pd0.4Rh0.4,"['Zr', 'Sc', 'Nb', 'Pd, 'Rh']","[5, 5, 5]",15,16.403,400,CHGNET,FALSE,TRUE,ICSD
+S.2.HEA,S.2.12,High-entropy_CollCode137169,La0.18Ce0.18Pr0.6Nd0.64Sm0.4Bi2S4O1F1,"['La', 'Ce', 'Pr', 'Nd', 'Sm', 'Bi', 'S', 'O', 'F']","[4, 4, 2]",15,16.08184,400,CHGNET,FALSE,TRUE,ICSD
+S.2.HEA,S.2.13,High-entropy_CollCode149269,Hf0.4Zr0.4Ta0.4Ti0.4Mo0.4H3,"['Hf', 'Zr', 'Ta', 'Ti', 'Mo', 'H']","[5, 5, 4]",15,16.488,400,CHGNET,FALSE,TRUE,ICSD
+S.2.HEA,S.2.14,High-entropy_CollCode149265,Hf0.4Zr0.4Ta0.4Ti0.4Mo0.4H3,"['Hf', 'Zr', 'Ta', 'Ti', 'Mo', 'H']","[5, 5, 5]",15,17.12,400,CHGNET,FALSE,TRUE,ICSD
+S.2.HEA,S.2.15,High-entropy_CollCode49497,Ti4Co1.988Ni1.996Sn1.932Sb1.996,"['Ti', 'Co', 'Ni', 'Sn', 'Sb']","[3, 3, 3]",15,17.67231,400,CHGNET,FALSE,TRUE,ICSD

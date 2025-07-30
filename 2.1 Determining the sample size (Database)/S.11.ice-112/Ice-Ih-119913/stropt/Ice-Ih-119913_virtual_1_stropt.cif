@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_H2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.51535762
+_cell_length_b   4.53127567
+_cell_length_c   14.29598442
+_cell_angle_alpha   90.53494608
+_cell_angle_beta   88.40215899
+_cell_angle_gamma   118.90197422
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H2O
+_chemical_formula_sum   'H16 O8'
+_cell_volume   255.96656138
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_type_symbol
+ _atom_type_oxidation_number
+  H+  1.0
+  O2-  -2.0
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H+  H0  1  0.58402337  0.36071275  1.13014520  1
+  H+  H1  1  0.31712122  0.44528258  -0.00035344  1
+  H+  H2  1  0.88138400  0.37513190  0.74759604  1
+  H+  H3  1  0.09107537  0.52443049  0.07839289  1
+  H+  H4  1  0.82299871  0.32159196  0.48381890  1
+  H+  H5  1  0.42702563  0.99668330  -0.02099001  1
+  H+  H6  1  0.38008611  0.43473095  0.49956705  1
+  H+  H7  1  0.52741069  0.03000662  0.35443055  1
+  H+  H8  1  0.43295019  0.47747904  0.73126363  1
+  H+  H9  1  0.60965932  0.24830779  0.83397349  1
+  H+  H10  1  0.72157095  1.24257630  0.21119005  1
+  H+  H11  1  0.43692775  0.83592774  0.73175509  1
+  H+  H12  1  0.46642796  0.97889193  0.49304687  1
+  H+  H13  1  0.27200817  0.56336113  0.59205874  1
+  H+  H14  1  0.42843955  0.70449526  0.29076816  1
+  H+  H15  1  0.78080417  0.34859620  0.97517578  1
+  O2-  O16  1  0.53796242  0.94888062  0.29020865  1
+  O2-  O17  1  0.30462188  0.59431503  0.71183651  1
+  O2-  O18  1  0.79207752  0.42653513  0.16314882  1
+  O2-  O19  1  0.63338148  0.25051976  0.76424464  1
+  O2-  O20  1  0.58202381  0.21042904  0.46459683  1
+  O2-  O21  1  0.53866774  0.23614412  0.95643638  1
+  O2-  O22  1  0.19579910  0.57582749  0.01339443  1
+  O2-  O23  1  0.25501954  0.55537601  0.52219464  1
