@@ -1,0 +1,59 @@
+#!/bin/sh
+#PBS -N te-spinel
+#PBS -P 12003663
+#PBS -m be
+#PBS -q normal
+
+# ask for 2 chunks of 24 cores, flat MPI (48 processes in total)
+#PBS -l select=1:ncpus=64:mpiprocs=64:ompthreads=1:mem=220gb
+
+# modify for required runtime
+#PBS -l walltime=24:00:00
+
+# Send standard output and standard error to same output file
+#PBS -j oe
+
+module swap PrgEnv-cray PrgEnv-intel/8.3.3
+module load mkl/2024.0
+module list
+
+# Change directory to where the job was submitted
+cd "$PBS_O_WORKDIR"
+
+# INCAR plug
+cat >INCAR <<!
+!ADDGRID = True
+ALGO = Normal
+EDIFF = 1e-06
+!ENCUT = 600
+IBRION = -1
+ICHARG = 0
+ISIF = 3
+ISMEAR = -5
+ISPIN = 2
+ISYM = 0
+!LAECHG = True
+LASPH = True
+!LCHARG = True
+!LDAU = False
+!LDAUJ = 0 0 0
+!LDAUL = 0 2 0
+!LDAUPRINT = 1
+!LDAUTYPE = 2
+!LDAUU = 0 0
+!LMAXMIX = 4
+LORBIT = 11
+LREAL = Auto
+!LVHAR = True
+LWAVE = False
+NELM = 500
+NSW = 0
+PREC = Accurate
+SIGMA = 0.05
+
+ENCUT = 600
+NCORE = 64
+KSPACING    = 0.2742775232585705
+!
+
+mpirun /home/users/ntu/andypaul/vasp6/prgenv/vasp_std > out_te
